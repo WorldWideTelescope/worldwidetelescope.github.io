@@ -10,6 +10,7 @@ WorldWide Telescope (WWT) is a visualization environment that enables your compu
 By contributing, you agree that we may redistribute your work under our [license](LICENSE). Everyone involved in WorldWide Telescope agrees to abide by our [code of conduct](conduct.md).
 
 ## Repositories
+
 | Title | Description | Repository |
 |-- |-- |-- |
 | WWT Web Client | WWT on the web| [https://github.com/WorldWideTelescope/wwt-web-client](https://github.com/WorldWideTelescope/wwt-web-client) |
