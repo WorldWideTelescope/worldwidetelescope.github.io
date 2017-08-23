@@ -5,10 +5,6 @@ This is a meta repository to help navigate the repositories of the [WorldWide Te
 ## What is WWT?
 WorldWide Telescope (WWT) is a visualization environment that enables your computer to function as a virtual telescope—bringing together imagery from the world’s best ground- and space-based telescopes for the exploration of the universe. WWT blends terabytes of images, information, and stories from multiple sources into a seamless, immersive, rich media experience. Explorers of all ages will feel empowered to explore and understand the cosmos using WWT’s simple and powerful user interface.
 
-## Contributing Agreement
-
-By contributing, you agree that we may redistribute your work under our [license](LICENSE). Everyone involved in WorldWide Telescope agrees to abide by our [code of conduct](conduct.md).
-
 ## Repositories
 
 | Title | Description | Repository |
