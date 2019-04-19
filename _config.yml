@@ -1,7 +1,8 @@
-title: WWT Developer Hub
+title: WWT Contributor Hub
 email: wwt@aas.org
 description: >-
-  The hub for AAS WorldWide Telescope development resources.
+  The hub for resources related to contributions to the AAS WorldWide
+  Telescope project.
 twitter_username: wwtelescope
 github_username: WorldWideTelescope
 remote_theme: pmarsceill/just-the-docs

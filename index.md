@@ -1,4 +1,4 @@
-# Welcome to the AAS WorldWide Telescope Developer Hub!
+# Welcome to the AAS WorldWide Telescope Contributor Hub!
 
 The [WorldWide Telescope](http://www.worldwidetelescope.org/) (WWT) is a
 visualization environment that enables your computer to function as a virtual

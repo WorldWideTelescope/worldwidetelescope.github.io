@@ -1,21 +1,22 @@
-# WWT Developer Hub Static Site
+# WWT Contributor Hub Static Site
 
 This repository contains the sources for the
-[WWT Developer Hub](https://worldwidetelescope.github.io/) website, served
+[WWT Contributor Hub](https://worldwidetelescope.github.io/) website, served
 statically via [Github Pages](https://pages.github.com/).
 
 You might want to
-[go to the WWT Developer Hub](https://worldwidetelescope.github.io/)
-now:
+[go to the WWT Contributor Hub](https://worldwidetelescope.github.io/) now:
 
 <https://worldwidetelescope.github.io/>
 
 ## Contributing
 
-Contributions to this website, and to the AAS WorldWide Telescope in general,
-are welcome! See [CONTRIBUTING](./CONTRIBUTING.md), which may also be found
-[here](https://worldwidetelescope.github.io/contributing/) in its styled form.
-We use a standard workflow with issues and pull requests.
+As you might guess, contributions to this website, and to the AAS WorldWide
+Telescope in general, are welcome! See
+[the contributors’ guide](https://worldwidetelescope.github.io/contributing/)
+for more information (also available in this repository as
+[CONTRIBUTING.md](./CONTRIBUTING.md)). We use a standard workflow with issues
+and pull requests.
 
 ## Local testing
 
