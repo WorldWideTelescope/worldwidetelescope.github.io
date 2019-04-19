@@ -1,1 +1,14 @@
-theme: jekyll-theme-minimal
+title: WWT Contributor Hub
+email: wwt@aas.org
+description: >-
+  The hub for resources related to contributions to the AAS WorldWide
+  Telescope project.
+twitter_username: wwtelescope
+github_username: WorldWideTelescope
+remote_theme: pmarsceill/just-the-docs
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CODE_OF_CONDUCT.md # canonical version is in `wwt-documentation`
