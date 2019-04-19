@@ -10,3 +10,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - CODE_OF_CONDUCT.md # canonical version is in `wwt-documentation`
