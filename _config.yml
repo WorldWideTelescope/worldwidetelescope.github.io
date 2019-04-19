@@ -1,1 +1,12 @@
-theme: jekyll-theme-minimal
+title: WWT Developer Hub
+email: wwt@aas.org
+description: >-
+  The hub for AAS WorldWide Telescope development resources.
+twitter_username: wwtelescope
+github_username: WorldWideTelescope
+remote_theme: pmarsceill/just-the-docs
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
