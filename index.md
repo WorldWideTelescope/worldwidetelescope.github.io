@@ -19,3 +19,4 @@ user interface.
 - [The pywwt documentation](https://pywwt.readthedocs.io/en/stable/) on
   *readthedocs.io*.
 - [WWT project Code of Conduct](https://worldwidetelescope.github.io/wwt-documentation/code-of-conduct/).
+- [The Git repository for this website](https://github.com/WorldWideTelescope/worldwidetelescope.github.io/).
