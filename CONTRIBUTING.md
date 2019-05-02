@@ -1,5 +1,5 @@
 ---
-title: The AAS WorldWide Telescope Contributors’ Guide
+title: WWT Contributors’ Guide
 permalink: "/contributing/"
 nav_order: 2
 ---
@@ -16,7 +16,7 @@ major sections of this guide:
 
 As a reminder, all contributors are expected to follow our [Code of Conduct][coc].
 
-[coc]: https://worldwidetelescope.github.io/wwt-documentation/code-of-conduct/
+[coc]: ./CODE_OF_CONDUCT.md
 
 
 ## Bug Reports
@@ -51,9 +51,13 @@ use it exactly:
 
     <steps to trigger the bug>
 
-    I expected to see this happen: <explanation>
+    I expected to see this happen:
 
-    Instead, this happened: <explanation>
+    <description>
+
+    Instead, this happened:
+
+    <description>
 
 All three components are important: what you did, what you expected, what
 happened instead.
@@ -79,10 +83,9 @@ Please make pull requests against the `master` branch.
 [writing-documentation]: #writing-documentation
 
 Documentation improvements are very welcome. The WWT GitHub organization
-includes many standalone repositories for various guidebook documents, as
-enumerated at the
-[WWT Documentation Hub](https://worldwidetelescope.github.io/wwt-documentat/).
-Documentation pull requests function in the same way as other pull requests.
+includes many standalone repositories for various guidebook documents that are
+enumerated on [the Contributor Hub main page](./index.md). Documentation pull
+requests function in the same way as other pull requests.
 
 Our documentation is written in
 [Markdown](https://en.wikipedia.org/wiki/Markdown) (with the file extension

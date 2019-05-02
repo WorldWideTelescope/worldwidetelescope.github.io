@@ -1,10 +1,8 @@
 ---
-title: AAS WorldWide Telescope Code of Conduct
+title: WWT Code of Conduct
 permalink: "/code-of-conduct/"
 nav_order: 3
 ---
-
-<!-- TODO: this duplicates what's in `wwt-documentation` -->
 
 # AAS WorldWide Telescope Code of Conduct
 
