@@ -51,9 +51,13 @@ use it exactly:
 
     <steps to trigger the bug>
 
-    I expected to see this happen: <explanation>
+    I expected to see this happen:
 
-    Instead, this happened: <explanation>
+    <description>
+
+    Instead, this happened:
+
+    <description>
 
 All three components are important: what you did, what you expected, what
 happened instead.
