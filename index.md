@@ -52,7 +52,8 @@ organization of professional astronomers in North America.
 ## Get Involved
 
 We would love your help in making WWT better! Please read our
-[Contributors’ Guide](./CONTRIBUTING.md) to get started. The source code for
+[Contributors’ Guide](./CONTRIBUTING.md) and
+[Code of Conduct](./CODE_OF_CONDUCT.md) to get started. The source code for
 this site lives at the
 [worldwidetelescope.github.io](https://github.com/WorldWideTelescope/worldwidetelescope.github.io)
 repository.
