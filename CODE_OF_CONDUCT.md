@@ -1,5 +1,5 @@
 ---
-title: AAS WorldWide Telescope Code of Conduct
+title: WWT Code of Conduct
 permalink: "/code-of-conduct/"
 nav_order: 3
 ---

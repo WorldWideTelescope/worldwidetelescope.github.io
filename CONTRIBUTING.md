@@ -1,5 +1,5 @@
 ---
-title: The AAS WorldWide Telescope Contributors’ Guide
+title: WWT Contributors’ Guide
 permalink: "/contributing/"
 nav_order: 2
 ---
