@@ -4,8 +4,6 @@ permalink: "/code-of-conduct/"
 nav_order: 3
 ---
 
-<!-- TODO: this duplicates what's in `wwt-documentation` -->
-
 # AAS WorldWide Telescope Code of Conduct
 
 The AAS WorldWide Telescope is dedicated to providing a welcoming and
