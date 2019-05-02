@@ -1,3 +1,8 @@
+---
+title: WWT Contributor Hub
+nav_order: 1
+---
+
 <!-- See README.md for how to preview this file when making edits -->
 
 # Welcome to the AAS WorldWide Telescope Contributor Hub!
