@@ -28,6 +28,7 @@ organization of professional astronomers in North America.
 - [The WWT GitHub organization](https://github.com/WorldWideTelescope)
 - [WWT project Code of Conduct](./CODE_OF_CONDUCT.md)
 - [The Git repository for this website](https://github.com/WorldWideTelescope/worldwidetelescope.github.io/)
+- [Sign up for the WWT announcements mailing list](https://bit.ly/wwt-signup)
 
 ## Documentation
 
