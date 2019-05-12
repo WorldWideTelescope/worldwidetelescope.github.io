@@ -39,13 +39,16 @@ organization of professional astronomers in North America.
 | [pywwt Manual and API Reference] | [pywwt] |
 | [WWT Contributors’ Guide] | [worldwidetelescope.github.io] |
 | [WWT Code of Conduct] | [worldwidetelescope.github.io] |
+| [GitBook Markdown Format Specification] | [wwtdoc-misc] |
 
 [pywwt Manual and API Reference]: https://pywwt.readthedocs.io/
 [WWT Contributors’ Guide]: ./CONTRIBUTING.md
 [WWT Code of Conduct]: ./CODE_OF_CONDUCT.md
+[GitBook Markdown Format Specification]: https://worldwidetelescope.gitbook.io/miscellaneous/documents/gitbook-spec
 
 [pywwt]: https://github.com/WorldWideTelescope/pywwt
 [worldwidetelescope.github.io]: https://github.com/WorldWideTelescope/worldwidetelescope.github.io
+[wwtdoc-misc]: https://github.com/WorldWideTelescope/wwtdoc-misc
 
 ### Best-effort documents
 
