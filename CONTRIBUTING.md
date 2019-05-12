@@ -89,9 +89,9 @@ requests function in the same way as other pull requests.
 
 Our documentation is written in
 [Markdown](https://en.wikipedia.org/wiki/Markdown) (with the file extension
-`.md`) and rendered with [Gitbook](https://www.gitbook.com/). This means each
-documentation repository has a `SUMMARY.md` table of contents file in addition
-to a `README.md` file that serves as an introduction to the documentation.
+`.md`) and rendered with [Gitbook](https://www.gitbook.com/). The
+documentation source structure is itself documented in the
+[WWT GitBook Markdown Format Specification](https://worldwidetelescope.gitbook.io/miscellaneous/documents/gitbook-spec).
 
 
 ## The Fine Print to Contributing

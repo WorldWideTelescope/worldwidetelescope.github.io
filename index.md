@@ -32,11 +32,37 @@ organization of professional astronomers in North America.
 
 ## Documentation
 
+### Primary documents
+
+| Document | Source Repository |
+|-- | -- |
+| [pywwt Manual and API Reference] | [pywwt] |
+| [WWT Contributors’ Guide] | [worldwidetelescope.github.io] |
+| [WWT Code of Conduct] | [worldwidetelescope.github.io] |
+| [GitBook Markdown Format Specification] | [wwtdoc-misc] |
+
+[pywwt Manual and API Reference]: https://pywwt.readthedocs.io/
+[WWT Contributors’ Guide]: ./CONTRIBUTING.md
+[WWT Code of Conduct]: ./CODE_OF_CONDUCT.md
+[GitBook Markdown Format Specification]: https://worldwidetelescope.gitbook.io/miscellaneous/documents/gitbook-spec
+
+[pywwt]: https://github.com/WorldWideTelescope/pywwt
+[worldwidetelescope.github.io]: https://github.com/WorldWideTelescope/worldwidetelescope.github.io
+[wwtdoc-misc]: https://github.com/WorldWideTelescope/wwtdoc-misc
+
+### Best-effort documents
+
+Unfortunately, the following documents are not necessarily up-to-date, and may
+not render correctly after
+[the GitBook upgrade](https://docs.gitbook.com/v2-changes). Caveat emptor. We
+aspire for all of these to be fresh, accurate, and readable, but contributor
+bandwidth is limited. Contributions are more than welcome! So are GitHub
+issues naming any particular sections that you would like one of the core WWT
+contributors to review.
+
 | Document | Source Repository |
 |-- | -- |
 | [User Manual] | [worldwide-telescope-manual] |
-| [pywwt Manual and API Reference] | [pywwt] |
-| [WWT Contributors’ Guide] | [worldwidetelescope.github.io] |
 | [WebGL Engine Reference] | [worldwide-telescope-webgl-sdk-reference] |
 | [Layer Control API Reference] | [WorldWide-Telescope-Layer-Control-API] |
 | [Projection Reference] | [worldwide-telescope-projection-reference] |
@@ -49,11 +75,8 @@ organization of professional astronomers in North America.
 | [Multi-Channel Dome Guide] | [worldwide-telescope-multi-channel-dome-setup] |
 | [Importing NASA SPICE Kernel Data into WorldWide Telescope] | none? |
 | [Using WorldWide Telescope to produce Science Shorts] | none? |
-| [WWT Code of Conduct] | [worldwidetelescope.github.io] |
 
 [User Manual]: https://worldwidetelescope.gitbook.io/user-manual/
-[pywwt Manual and API Reference]: https://pywwt.readthedocs.io/
-[WWT Contributors’ Guide]: ./CONTRIBUTING.md
 [WebGL Engine Reference]: https://worldwidetelescope.gitbook.io/webgl-engine-reference/
 [Layer Control API Reference]: https://worldwidetelescope.gitbook.io/layer-control-reference/
 [Projection Reference]: https://worldwidetelescope.gitbook.io/projection-reference/
@@ -66,11 +89,8 @@ organization of professional astronomers in North America.
 [Multi-Channel Dome Guide]: https://worldwidetelescope.gitbook.io/multi-channel-dome-setup/
 [Importing NASA SPICE Kernel Data into WorldWide Telescope]: https://astrodavid.gitbook.io/importing-spice-kernel-data-to-worldwide-telescop/
 [Using WorldWide Telescope to produce Science Shorts]: https://doctorspaceman.gitbook.io/using-worldwide-telescope-to-produce-science-shor/
-[WWT Code of Conduct]: ./CODE_OF_CONDUCT.md
 
 [worldwide-telescope-manual]: https://github.com/WorldWideTelescope/worldwide-telescope-manual
-[pywwt]: https://github.com/WorldWideTelescope/pywwt
-[worldwidetelescope.github.io]: https://github.com/WorldWideTelescope/worldwidetelescope.github.io
 [worldwide-telescope-webgl-sdk-reference]: https://github.com/WorldWideTelescope/worldwide-telescope-webgl-sdk-reference
 [WorldWide-Telescope-Layer-Control-API]: https://github.com/WorldWideTelescope/WorldWide-Telescope-Layer-Control-API
 [worldwide-telescope-projection-reference]: https://github.com/WorldWideTelescope/worldwide-telescope-projection-reference
