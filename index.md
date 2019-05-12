@@ -30,6 +30,23 @@ organization of professional astronomers in North America.
 - [The Git repository for this website](https://github.com/WorldWideTelescope/worldwidetelescope.github.io/)
 - [Sign up for the WWT announcements mailing list](https://bit.ly/wwt-signup)
 
+
+## Example Code
+
+| Example Collection | Source Repository |
+|-- | -- |
+| [WWT WebGl Engine Examples] | [wwt-web-examples] |
+
+[WWT WebGl Engine Examples]: http://webhosted.wwt-forum.org/webengine-examples/
+
+[wwt-web-examples]: https://github.com/WorldWideTelescope/wwt-web-examples/
+
+At the moment, we must host these examples on a separate domain that can serve
+them over unsecured HTTP. This is because the core WWT web services are not
+HTTPS-enabled, and so cannot be embedded inside HTTPS web pages such as stock
+GitHub Pages sites. We are working to fix this!
+
+
 ## Documentation
 
 ### Primary documents
