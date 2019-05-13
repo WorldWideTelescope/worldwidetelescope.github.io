@@ -53,18 +53,21 @@ GitHub Pages sites. We are working to fix this!
 
 | Document | Source Repository |
 |-- | -- |
-| [pywwt Manual and API Reference] | [pywwt] |
 | [WWT Contributors’ Guide] | [worldwidetelescope.github.io] |
 | [WWT Code of Conduct] | [worldwidetelescope.github.io] |
+| [pywwt Manual and API Reference] | [pywwt] |
+| [WebGL Engine Reference] | [worldwide-telescope-webgl-sdk-reference] |
 | [GitBook Markdown Format Specification] | [wwtdoc-misc] |
 
-[pywwt Manual and API Reference]: https://pywwt.readthedocs.io/
 [WWT Contributors’ Guide]: ./CONTRIBUTING.md
 [WWT Code of Conduct]: ./CODE_OF_CONDUCT.md
+[pywwt Manual and API Reference]: https://pywwt.readthedocs.io/
+[WebGL Engine Reference]: https://worldwidetelescope.gitbook.io/webgl-engine-reference/
 [GitBook Markdown Format Specification]: https://worldwidetelescope.gitbook.io/miscellaneous/documents/gitbook-spec
 
-[pywwt]: https://github.com/WorldWideTelescope/pywwt
 [worldwidetelescope.github.io]: https://github.com/WorldWideTelescope/worldwidetelescope.github.io
+[pywwt]: https://github.com/WorldWideTelescope/pywwt
+[worldwide-telescope-webgl-sdk-reference]: https://github.com/WorldWideTelescope/worldwide-telescope-webgl-sdk-reference
 [wwtdoc-misc]: https://github.com/WorldWideTelescope/wwtdoc-misc
 
 ### Best-effort documents
@@ -80,7 +83,6 @@ contributors to review.
 | Document | Source Repository |
 |-- | -- |
 | [User Manual] | [worldwide-telescope-manual] |
-| [WebGL Engine Reference] | [worldwide-telescope-webgl-sdk-reference] |
 | [Layer Control API Reference] | [WorldWide-Telescope-Layer-Control-API] |
 | [Projection Reference] | [worldwide-telescope-projection-reference] |
 | [Data Tools Guide] | [worldwide-telescope-data-tools-guide] |
@@ -94,7 +96,6 @@ contributors to review.
 | [Using WorldWide Telescope to produce Science Shorts] | none? |
 
 [User Manual]: https://worldwidetelescope.gitbook.io/user-manual/
-[WebGL Engine Reference]: https://worldwidetelescope.gitbook.io/webgl-engine-reference/
 [Layer Control API Reference]: https://worldwidetelescope.gitbook.io/layer-control-reference/
 [Projection Reference]: https://worldwidetelescope.gitbook.io/projection-reference/
 [Data Tools Guide]: https://worldwidetelescope.gitbook.io/data-tools-guide/
@@ -108,7 +109,6 @@ contributors to review.
 [Using WorldWide Telescope to produce Science Shorts]: https://doctorspaceman.gitbook.io/using-worldwide-telescope-to-produce-science-shor/
 
 [worldwide-telescope-manual]: https://github.com/WorldWideTelescope/worldwide-telescope-manual
-[worldwide-telescope-webgl-sdk-reference]: https://github.com/WorldWideTelescope/worldwide-telescope-webgl-sdk-reference
 [WorldWide-Telescope-Layer-Control-API]: https://github.com/WorldWideTelescope/WorldWide-Telescope-Layer-Control-API
 [worldwide-telescope-projection-reference]: https://github.com/WorldWideTelescope/worldwide-telescope-projection-reference
 [worldwide-telescope-data-tools-guide]: https://github.com/WorldWideTelescope/worldwide-telescope-data-tools-guide
