@@ -9,6 +9,7 @@ You might want to
 
 <https://worldwidetelescope.github.io/>
 
+
 ## Contributing
 
 As you might guess, contributions to this website, and to the AAS WorldWide
@@ -18,9 +19,18 @@ for more information (also available in this repository as
 [CONTRIBUTING.md](./CONTRIBUTING.md)). We use a standard workflow with issues
 and pull requests.
 
+Our [GitHub Pages] sites, such as this one, use the [just-the-docs] [Jekyll]
+theme. The [just-the-docs documentation] describes its features.
+
+[GitHub Pages]: https://pages.github.com/
+[just-the-docs]: https://github.com/pmarsceill/just-the-docs
+[Jekyll]: https://jekyllrb.com/
+[just-the-docs documentation]: https://pmarsceill.github.io/just-the-docs/
+
+
 ## Local testing
 
-This site is based on a standard [Jekyll](https://jekyllrb.com/) static site
+This site is based on a standard [Jekyll] static site
 system. In short, first run
 
 ```
