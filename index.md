@@ -27,7 +27,6 @@ organization of professional astronomers in North America.
 - [The main WWT website!](http://www.worldwidetelescope.org/)
 - [The WWT GitHub organization](https://github.com/WorldWideTelescope)
 - [WWT Code of Conduct]
-- [The Git repository for this website](https://github.com/WorldWideTelescope/worldwidetelescope.github.io/)
 - [Sign up for the WWT announcements mailing list](https://bit.ly/wwt-signup)
 
 
@@ -45,6 +44,18 @@ At the moment, we must host these examples on a separate domain that can serve
 them over unsecured HTTP. This is because the core WWT web services are not
 HTTPS-enabled, and so cannot be embedded inside HTTPS web pages such as stock
 GitHub Pages sites. We are working to fix this!
+
+
+## Stay in Touch!
+
+Here are some ways you can communicate with the folks who make the project
+happen:
+
+- Sign up for the announcements mailing list: <https://bit.ly/wwt-signup>
+- [Twitter: @wwtelescope](https://twitter.com/wwtelescope)
+- [Facebook: @wwtelescope](https://www.facebook.com/wwtelescope/)
+- [YouTube: AASWorldWideTelescope](https://www.youtube.com/c/AASWorldWideTelescope)
+- [Email: wwt@aas.org](mailto:wwt@aas.org)
 
 
 ## Documentation
