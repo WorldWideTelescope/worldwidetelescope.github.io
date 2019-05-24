@@ -35,15 +35,18 @@ organization of professional astronomers in North America.
 | Example Collection | Source Repository |
 |-- | -- |
 | [WWT WebGl Engine Examples] | [wwt-web-examples] |
+| [“Starfield” art installation] | [wwt-kinect-swing-control] |
 
 [WWT WebGl Engine Examples]: http://webhosted.wwt-forum.org/webengine-examples/
+[“Starfield” art installation]: https://muda.co/starfield/
 
 [wwt-web-examples]: https://github.com/WorldWideTelescope/wwt-web-examples/
+[wwt-kinect-swing-control]: https://github.com/WorldWideTelescope/wwt-kinect-swing-control/
 
-At the moment, we must host these examples on a separate domain that can serve
-them over unsecured HTTP. This is because the core WWT web services are not
-HTTPS-enabled, and so cannot be embedded inside HTTPS web pages such as stock
-GitHub Pages sites. We are working to fix this!
+At the moment, we must host the Web examples on a separate domain that can
+serve them over unsecured HTTP. This is because the core WWT web services are
+not HTTPS-enabled, and so cannot be embedded inside HTTPS web pages such as
+stock GitHub Pages sites. We are working to fix this!
 
 
 ## Stay in Touch!
