@@ -12,8 +12,9 @@ aux_links:
   "View on GitHub!":
     - "//github.com/WorldWideTelescope/worldwidetelescope.github.io/"
 
+ga_tracking: UA-107473046-4
+
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-
