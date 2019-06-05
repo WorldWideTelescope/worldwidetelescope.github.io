@@ -23,12 +23,14 @@ organization of professional astronomers in North America.
 
 ## Quick Links
 
+- [WWT discussion forum]
 - [WWT Contributors’ Guide]
 - [The main WWT website!](http://www.worldwidetelescope.org/)
 - [The WWT GitHub organization](https://github.com/WorldWideTelescope)
 - [WWT Code of Conduct]
 - [Sign up for the WWT announcements mailing list](https://bit.ly/wwt-signup)
 
+[WWT discussion forum]: https://wwt-forum.org/
 
 ## Example Code
 
@@ -55,6 +57,7 @@ Here are some ways you can communicate with the folks who make the project
 happen:
 
 - Sign up for the announcements mailing list: <https://bit.ly/wwt-signup>
+- WWT discussion forum: <https://wwt-forum.org/>
 - [Twitter: @wwtelescope](https://twitter.com/wwtelescope)
 - [Facebook: @wwtelescope](https://www.facebook.com/wwtelescope/)
 - [YouTube: AASWorldWideTelescope](https://www.youtube.com/c/AASWorldWideTelescope)
