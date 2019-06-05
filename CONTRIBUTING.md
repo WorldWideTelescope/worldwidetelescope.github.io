@@ -18,6 +18,14 @@ As a reminder, all contributors are expected to follow our [Code of Conduct][coc
 
 [coc]: ./CODE_OF_CONDUCT.md
 
+## Stuck?
+
+If you feel stuck and aren’t sure where to go next, you should check out the
+[WWT discussion forum] at <https://wwt-forum.org/>. We aim to have a friendly
+and welcoming group of WWT fans who can help you figure out the next step for
+whatever you’re looking to accomplish!
+
+[WWT discussion forum]: https://wwt-forum.org/
 
 ## Bug Reports
 [bug-reports]: #bug-reports
