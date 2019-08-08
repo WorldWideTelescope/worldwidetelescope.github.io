@@ -74,12 +74,14 @@ happen:
 | [WWT Code of Conduct] | [worldwidetelescope.github.io] |
 | [pywwt Manual and API Reference] | [pywwt] |
 | [WebGL Engine Reference] | [worldwide-telescope-webgl-sdk-reference] |
+| [Setting Up a Windows VM for WWT Development] | [wwtdoc-misc] |
 | [GitBook Markdown Format Specification] | [wwtdoc-misc] |
 
 [WWT Contributors’ Guide]: ./CONTRIBUTING.md
 [WWT Code of Conduct]: ./CODE_OF_CONDUCT.md
 [pywwt Manual and API Reference]: https://pywwt.readthedocs.io/
 [WebGL Engine Reference]: https://worldwidetelescope.gitbook.io/webgl-engine-reference/
+[Setting Up a Windows VM for WWT Development]: https://worldwidetelescope.gitbook.io/miscellaneous/documents/windows-vm-setup
 [GitBook Markdown Format Specification]: https://worldwidetelescope.gitbook.io/miscellaneous/documents/gitbook-spec
 
 [worldwidetelescope.github.io]: https://github.com/WorldWideTelescope/worldwidetelescope.github.io
