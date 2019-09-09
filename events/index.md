@@ -30,6 +30,7 @@ If you’re not able to make it to any in-person events, try checking out
 Here we archive some of the materials associated with some previous WWT
 events — completeness not guaranteed.
 
+- [WWT @ NPA2019] (Sandnes, Norway; 2019 September 5–9)
 - [WWT @ AAS234] (St. Louis, MO, USA; 2019 June 9–13)
 - [WWT @ AAS233] (Seattle, WA, USA; 2019 January 6–10)
 - [WWT @ AAS231] (National Harbor, MD, USA; 2018 January 8–12)
@@ -43,6 +44,7 @@ events — completeness not guaranteed.
 - [WWT @ Mediaglobe Users Group 2015] (Jackson, MS, USA; 2015 August 1)
 - [2015 KICP Workshop] (Chicago, IL, USA; 2015 July 28)
 
+[WWT @ NPA2019]: ./past/201909-npa2019.md
 [WWT @ AAS234]: ./past/201906-aas234.md
 [WWT @ AAS233]: ./past/201901-aas233.md
 [WWT @ AAS231]: ./past/201801-aas231.md
