@@ -7,7 +7,7 @@ statically via [Github Pages](https://pages.github.com/).
 You might want to
 [go to the WWT Contributor Hub](https://worldwidetelescope.github.io/) now:
 
-<https://worldwidetelescope.github.io/>
+### <https://worldwidetelescope.github.io/>
 
 
 ## Contributing
@@ -46,3 +46,19 @@ bundle exec jekyll serve
 to serve the site locally. For more information, see
 [the GitHub documentation](https://help.github.com/en/articles/using-jekyll-as-a-static-site-generator-with-github-pages)
 on Jekyll static sites.
+
+
+## Acknowledgments
+
+The AAS WorldWide Telescope system is a [.NET Foundation] project. Work on WWT
+has been supported by the [American Astronomical Society] (AAS), the US
+[National Science Foundation] (grants [1550701] and [1642446]), the [Gordon
+and Betty Moore Foundation], and [Microsoft].
+
+[.NET Foundation]: https://dotnetfoundation.org/
+[American Astronomical Society]: https://aas.org/
+[National Science Foundation]: https://www.nsf.gov/
+[1550701]: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1550701
+[1642446]: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1642446
+[Gordon and Betty Moore Foundation]: https://www.moore.org/
+[Microsoft]: https://www.microsoft.com/
