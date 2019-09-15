@@ -7,6 +7,8 @@ nav_order: 1
 
 # Welcome to the AAS WorldWide Telescope Contributor Hub!
 
+<!-- NOTE: these links are inlined because consecutive out-of-band links
+ with parentheses don't render well. -->
 The [AAS](https://aas.org/)
 [WorldWide Telescope](http://www.worldwidetelescope.org) (WWT) is a free,
 open-source tool for visually exploring humanity’s scientific understanding of
@@ -17,9 +19,12 @@ a Windows application that can power planetariums, a cloud-based web service
 for discovering and sharing astronomical data, and a Python module allowing
 users to write their own software to control and extend all of these systems.
 
-WWT is brought to you by the [American Astronomical Society](https://aas.org/)
-(AAS). Established in 1899 and based in Washington, DC, the AAS is the major
+WWT is brought to you by the [American Astronomical Society] (AAS).
+Established in 1899 and based in Washington, DC, the AAS is the major
 organization of professional astronomers in North America.
+
+[American Astronomical Society]: https://aas.org/
+
 
 ## Quick Links
 
@@ -31,6 +36,7 @@ organization of professional astronomers in North America.
 - [Sign up for the WWT announcements mailing list](https://bit.ly/wwt-signup)
 
 [WWT discussion forum]: https://wwt-forum.org/
+
 
 ## Example Code
 
@@ -139,8 +145,19 @@ contributors to review.
 [worldwide-telescope-multi-channel-dome-setup]: https://github.com/WorldWideTelescope/worldwide-telescope-multi-channel-dome-setup
 [worldwidetelescope.github.io]: https://github.com/WorldWideTelescope/worldwidetelescope.github.io
 
+
 ## Get Involved
 
 We would love your help in making WWT better! Please read the
 [WWT Contributors’ Guide] and [WWT Code of Conduct] to get started. The source
 code for this site lives at the [worldwidetelescope.github.io] repository.
+
+
+## Acknowledgments
+
+Work on the AAS WorldWide Telescope is supported by the
+[American Astronomical Society] (AAS) and the US [National Science Foundation]
+(grant [1642446]).
+
+[National Science Foundation]: https://www.nsf.gov/
+[1642446]: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1642446
