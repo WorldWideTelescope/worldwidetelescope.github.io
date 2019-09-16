@@ -19,11 +19,13 @@ a Windows application that can power planetariums, a cloud-based web service
 for discovering and sharing astronomical data, and a Python module allowing
 users to write their own software to control and extend all of these systems.
 
-WWT is brought to you by the [American Astronomical Society] (AAS).
-Established in 1899 and based in Washington, DC, the AAS is the major
-organization of professional astronomers in North America.
+WWT is brought to you by the non-profit [American Astronomical Society] (AAS)
+and the [.NET Foundation]. Established in 1899 and based in Washington, DC,
+the AAS is the major organization of professional astronomers in North
+America.
 
 [American Astronomical Society]: https://aas.org/
+[.NET Foundation]: https://dotnetfoundation.org/
 
 
 ## Quick Links
@@ -155,9 +157,13 @@ code for this site lives at the [worldwidetelescope.github.io] repository.
 
 ## Acknowledgments
 
-Work on the AAS WorldWide Telescope is supported by the
-[American Astronomical Society] (AAS) and the US [National Science Foundation]
-(grant [1642446]).
+The AAS WorldWide Telescope system is a [.NET Foundation] project. Work on WWT
+has been supported by the [American Astronomical Society] (AAS), the US
+[National Science Foundation] (grants [1550701] and [1642446]), the [Gordon
+and Betty Moore Foundation], and [Microsoft].
 
 [National Science Foundation]: https://www.nsf.gov/
+[1550701]: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1550701
 [1642446]: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1642446
+[Gordon and Betty Moore Foundation]: https://www.moore.org/
+[Microsoft]: https://www.microsoft.com/
