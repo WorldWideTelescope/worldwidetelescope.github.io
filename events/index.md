@@ -3,12 +3,12 @@ title: WWT Events
 nav_order: 4
 ---
 
-# WWT workshops and other events
+# AAS WorldWide Telescope: Current Events
 
-There’s no better way to build up the WWT community than having in-person
-events! We strive to maintain a regular schedule of them. Here are the ones
-that are coming up. **Thinking about attending? Planning to attend? These
-links have all the information you need.**
+<div class="callout" markdown="1">
+
+**Click the links for information and resources regarding these upcoming WWT
+  events:**
 
 - [WWT @ ADASS29] (Groningen, Netherlands; 2019 October 6–10)
 - [WWT @ AAS235] (Honolulu, HI, USA; 2020 January 4–8)
@@ -16,7 +16,15 @@ links have all the information you need.**
 [WWT @ ADASS29]: https://wwt-forum.org/t/researcher-workshop-wwt-adass29-groningen-netherlands-2019-october-6/70/2
 [WWT @ AAS235]: https://wwt-forum.org/t/researcher-workshop-wwt-aas235-honolulu-usa-2020-january-5/71
 
-If you’re not able to make it to any in-person events, try checking out
+Whether you’re just curious about what’s going on, or planning to attend
+something and looking for information, the links above have what you need.
+
+</div>
+
+There’s no better way to build up the [AAS](https://aas.org/)
+[WorldWide Telescope](/) community than getting together in person! We strive
+to maintain a regular schedule of events, with upcoming ones highlighted
+above. If you’re not able to make it to any in-person events, try checking out
 [our YouTube channel] or [our discussion forum], and sign up for
 [our announcements mailing list] to stay in touch!
 
