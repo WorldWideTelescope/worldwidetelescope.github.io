@@ -1,0 +1,20 @@
+.side-bar {
+  background: #f6f7fa url("/starry-edge.jpg") repeat-y;
+}
+
+@font-face {
+  font-family: UniversLTPro-45Light;
+  src: url("/fonts/39762C_0_0.eot?#iefix") format("embedded-opentype"), url("/fonts/39762C_0_0.woff2") format("woff2"), url("/fonts/39762C_0_0.woff") format("woff"), url("/fonts/39762C_0_0.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: UniversLTPro-65Bold;
+  src: url("/fonts/39762C_2_0.eot?#iefix") format("embedded-opentype"), url("/fonts/39762C_2_0.woff2") format("woff2"), url("/fonts/39762C_2_0.woff") format("woff"), url("/fonts/39762C_2_0.ttf") format("truetype");
+}
+
+.callout {
+  background-color: #eef;
+  padding: 0.5rem 1rem 0rem 1rem;
+  font-size: 110%;
+  border-radius: 6px;
+}
