@@ -8,6 +8,8 @@ twitter_username: wwtelescope
 github_username: WorldWideTelescope
 remote_theme: pmarsceill/just-the-docs
 
+logo: "stacked-logo.png"
+
 aux_links:
   "Source on GitHub!":
     - "//github.com/WorldWideTelescope/worldwidetelescope.github.io/"
