@@ -9,8 +9,10 @@ github_username: WorldWideTelescope
 remote_theme: pmarsceill/just-the-docs
 
 aux_links:
-  "View on GitHub!":
+  "Source on GitHub!":
     - "//github.com/WorldWideTelescope/worldwidetelescope.github.io/"
+
+footer_content: "Copyright 2019 the .NET Foundation. The AAS WorldWide Telescope is brought to you by the American Astronomical Society <a href=\"/#acknowledgments\">and other supporters</a>."
 
 ga_tracking: UA-107473046-4
 
