@@ -10,8 +10,10 @@ nav_order: 4
 **Click the links for information and resources regarding these upcoming WWT
   events:**
 
+- [WWT @ Petabytes to Science 3] (Boston, MA, USA; 2019 November 6–8)
 - [WWT @ AAS235] (Honolulu, HI, USA; 2020 January 4–8)
 
+[WWT @ Petabytes to Science 3]: https://wwt-forum.org/t/researcher-workshop-wwt-petabytes-to-science-3-boston-usa-2019-nov-8/86
 [WWT @ AAS235]: https://wwt-forum.org/t/researcher-workshop-wwt-aas235-honolulu-usa-2020-january-5/71
 
 Whether you’re just curious about what’s going on, or planning to attend
