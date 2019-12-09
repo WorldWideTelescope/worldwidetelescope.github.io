@@ -10,10 +10,8 @@ nav_order: 4
 **Click the links for information and resources regarding these upcoming WWT
   events:**
 
-- [WWT @ Petabytes to Science 3] (Boston, MA, USA; 2019 November 6–8)
 - [WWT @ AAS235] (Honolulu, HI, USA; 2020 January 4–8)
 
-[WWT @ Petabytes to Science 3]: https://wwt-forum.org/t/researcher-workshop-wwt-petabytes-to-science-3-boston-usa-2019-nov-8/86
 [WWT @ AAS235]: https://wwt-forum.org/t/researcher-workshop-wwt-aas235-honolulu-usa-2020-january-5/71
 
 Whether you’re just curious about what’s going on, or planning to attend
@@ -38,6 +36,7 @@ above. If you’re not able to make it to any in-person events, try checking out
 Here we archive some of the materials associated with some previous WWT
 events — completeness not guaranteed.
 
+- [WWT @ Petabytes to Science 3] (Boston, MA, USA; 2019 November 6–8)
 - [WWT @ ADASS29] (Groningen, Netherlands; 2019 October 6–10)
 - [WWT @ NPA2019] (Sandnes, Norway; 2019 September 5–9)
 - [WWT @ AAS234] (St. Louis, MO, USA; 2019 June 9–13)
@@ -53,6 +52,7 @@ events — completeness not guaranteed.
 - [WWT @ Mediaglobe Users Group 2015] (Jackson, MS, USA; 2015 August 1)
 - [2015 KICP Workshop] (Chicago, IL, USA; 2015 July 28)
 
+[WWT @ Petabytes to Science 3]: https://wwt-forum.org/t/researcher-workshop-wwt-petabytes-to-science-3-boston-usa-2019-nov-8/86
 [WWT @ ADASS29]: https://wwt-forum.org/t/researcher-workshop-wwt-adass29-groningen-netherlands-2019-october-6/70/2
 [WWT @ NPA2019]: ./past/201909-npa2019.md
 [WWT @ AAS234]: ./past/201906-aas234.md
