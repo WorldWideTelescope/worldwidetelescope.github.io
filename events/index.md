@@ -3,26 +3,51 @@ title: WWT Events
 nav_order: 4
 ---
 
+<!-- N.B.: our physical swag items direct people to the URL of this page, so
+ it should be awesome and useful for people who have no idea what WWT is! -->
+
 # AAS WorldWide Telescope: Current Events
-
-<div class="callout" markdown="1">
-
-**Click the links for information and resources regarding these upcoming WWT
-  events:**
-
-- [WWT @ AAS235] (Honolulu, HI, USA; 2020 January 4–8)
-
-[WWT @ AAS235]: https://wwt-forum.org/t/researcher-workshop-wwt-aas235-honolulu-usa-2020-january-5/71
-
-Whether you’re just curious about what’s going on, or planning to attend
-something and looking for information, the links above have what you need.
-
-</div>
 
 There’s no better way to build up the [AAS](https://aas.org/)
 [WorldWide Telescope](/) community than getting together in person! We strive
-to maintain a regular schedule of events, with upcoming ones highlighted
-above. If you’re not able to make it to any in-person events, try checking out
+to maintain a regular schedule of events — here’s what’s current:
+
+<details markdown="1">
+  <summary>WWT @ AAS235 (Honolulu, HI, USA; 2020 January 4–8)</summary>
+
+  The WWT team will be busy during the [AAS235] meeting in Honolulu, Hawai'i!
+
+  - **Saturday, Jan 4, time TBC**: WWT in Education tutorial (location TBC)
+  - **Sunday, Jan 5, 1–2 PM**: [Researcher Workshop] (rm 307B) — *registration required*
+  - **Sunday, Jan 5, 5–6 PM**: AAS Publishing Reception with refreshments (AAS Booth in Exhibit Hall)
+  - **Tuesday, Jan 7, 12–1:30 PM**: What’s New in AAS Publishing (rm 301B)
+  - **Tuesday, Jan 7, 5–6:30 PM**: NASA’s Universe of Learning Data
+    Visualization splinter session (location TBC)
+  - **Wednesday, Jan 8, all day**: WWT @ Hack Together Day (rm 323C)
+  - **Wednesday, Jan 8, 2–3 PM**: AAS Publications Committee open forum (location TBC)
+
+  [Researcher Workshop]: https://wwt-forum.org/t/researcher-workshop-wwt-aas235-honolulu-usa-2020-january-5/71
+  [AAS235]: https://aas.org/meetings/aas235
+</details>
+
+<details class="videobox" markdown="1">
+  <summary>What is the AAS WorldWide Telescope?</summary>
+
+  WWT is a free and open-source tool for showcasing astronomical data and
+  knowledge, brought to you by the
+  [American Astronomical Society](https://aas.org/) (AAS). Use WWT online at
+  [worldwidetelescope.org](http://worldwidetelescope.org).
+
+  <div class="responsive-16x9-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/CD_W6wJp26E"
+            frameborder="0"
+            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+    </iframe>
+  </div>
+</details>
+
+If you’re not able to make it to any in-person events, try checking out
 [our YouTube channel] or [our discussion forum], and sign up for
 [our announcements mailing list] to stay in touch!
 

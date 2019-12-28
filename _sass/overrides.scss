@@ -12,9 +12,44 @@
   src: url("/fonts/39762C_2_0.eot?#iefix") format("embedded-opentype"), url("/fonts/39762C_2_0.woff2") format("woff2"), url("/fonts/39762C_2_0.woff") format("woff"), url("/fonts/39762C_2_0.ttf") format("truetype");
 }
 
-.callout {
+
+/* <details> elements need some fixup */
+
+details {
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
   background-color: #eef;
-  padding: 0.5rem 1rem 0rem 1rem;
   font-size: 110%;
   border-radius: 6px;
+}
+
+details > summary {
+  display: list-item;  /* justthedocs css overrides this, which is needed to get the disclosure triangle */
+  cursor: pointer;
+  font-size: 110%;
+  font-weight: bold;
+}
+
+details[open] > summary {
+  margin-bottom: 0.5rem;
+}
+
+
+/* YouTube video embeds need help to keep working on mobile - https://flaviocopes.com/responsive-youtube-videos/ */
+
+div.responsive-16x9-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+div.responsive-16x9-container > iframe {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
