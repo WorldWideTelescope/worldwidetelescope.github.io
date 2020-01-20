@@ -13,21 +13,8 @@ There’s no better way to build up the [AAS](https://aas.org/)
 to maintain a regular schedule of events — here’s what’s current:
 
 <details markdown="1">
-  <summary>WWT @ AAS235 (Honolulu, HI, USA; 2020 January 4–8)</summary>
-
-  The WWT team will be busy during the [AAS235] meeting in Honolulu, Hawai'i!
-
-  - **Saturday, Jan 4, time TBC**: WWT in Education tutorial (location TBC)
-  - **Sunday, Jan 5, 1–2 PM**: [Researcher Workshop] (rm 307B) — *registration required*
-  - **Sunday, Jan 5, 5–6 PM**: AAS Publishing Reception with refreshments (AAS Booth in Exhibit Hall)
-  - **Tuesday, Jan 7, 12–1:30 PM**: What’s New in AAS Publishing (rm 301B)
-  - **Tuesday, Jan 7, 5–6:30 PM**: NASA’s Universe of Learning Data
-    Visualization splinter session (location TBC)
-  - **Wednesday, Jan 8, all day**: WWT @ Hack Together Day (rm 323C)
-  - **Wednesday, Jan 8, 2–3 PM**: AAS Publications Committee open forum (location TBC)
-
-  [Researcher Workshop]: https://wwt-forum.org/t/researcher-workshop-wwt-aas235-honolulu-usa-2020-january-5/71
-  [AAS235]: https://aas.org/meetings/aas235
+  <summary>No events scheduled — email <a href="mailto:wwt@aas.org">wwt@aas.org</a>
+    to inquire!</summary>
 </details>
 
 <details class="videobox" markdown="1">
@@ -61,6 +48,7 @@ If you’re not able to make it to any in-person events, try checking out
 Here we archive some of the materials associated with some previous WWT
 events — completeness not guaranteed.
 
+- [WWT @ AAS235] (Honolulu, HI, USA; 2020 January 5–9)
 - [WWT @ Petabytes to Science 3] (Boston, MA, USA; 2019 November 6–8)
 - [WWT @ ADASS29] (Groningen, Netherlands; 2019 October 6–10)
 - [WWT @ NPA2019] (Sandnes, Norway; 2019 September 5–9)
@@ -77,6 +65,7 @@ events — completeness not guaranteed.
 - [WWT @ Mediaglobe Users Group 2015] (Jackson, MS, USA; 2015 August 1)
 - [2015 KICP Workshop] (Chicago, IL, USA; 2015 July 28)
 
+[WWT @ AAS235]: https://wwt-forum.org/t/researcher-workshop-wwt-aas235-honolulu-usa-2020-january-5/71
 [WWT @ Petabytes to Science 3]: https://wwt-forum.org/t/researcher-workshop-wwt-petabytes-to-science-3-boston-usa-2019-nov-8/86
 [WWT @ ADASS29]: https://wwt-forum.org/t/researcher-workshop-wwt-adass29-groningen-netherlands-2019-october-6/70/2
 [WWT @ NPA2019]: ./past/201909-npa2019.md
