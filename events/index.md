@@ -36,11 +36,11 @@ to maintain a regular schedule of events — here’s what’s current:
 
 If you’re not able to make it to any in-person events, try checking out
 [our YouTube channel] or [our discussion forum], and sign up for
-[our announcements mailing list] to stay in touch!
+[our newsletter] to stay in touch!
 
 [our YouTube channel]: https://www.youtube.com/c/AASWorldWideTelescope
 [our discussion forum]: https://wwt-forum.org/
-[our announcements mailing list]: https://bit.ly/wwt-signup
+[our newsletter]: https://bit.ly/wwt-signup
 
 
 ## Past events
