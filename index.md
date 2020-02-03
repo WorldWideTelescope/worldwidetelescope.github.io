@@ -35,7 +35,7 @@ America.
 - [The main WWT website!](http://www.worldwidetelescope.org/)
 - [The WWT GitHub organization](https://github.com/WorldWideTelescope)
 - [WWT Code of Conduct]
-- [Sign up for the WWT announcements mailing list](https://bit.ly/wwt-signup)
+- [Sign up for the WWT newsletter](https://bit.ly/wwt-signup)
 
 [WWT discussion forum]: https://wwt-forum.org/
 
@@ -64,7 +64,7 @@ stock GitHub Pages sites. We are working to fix this!
 Here are some ways you can communicate with the folks who make the project
 happen:
 
-- Sign up for the announcements mailing list: <https://bit.ly/wwt-signup>
+- Sign up for the WWT newsletter: <https://bit.ly/wwt-signup>
 - WWT discussion forum: <https://wwt-forum.org/>
 - [Twitter: @wwtelescope](https://twitter.com/wwtelescope)
 - [Facebook: @wwtelescope](https://www.facebook.com/wwtelescope/)
