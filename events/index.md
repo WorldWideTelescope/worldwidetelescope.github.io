@@ -22,8 +22,8 @@ to maintain a regular schedule of events — here’s what’s current:
 
   WWT is a free and open-source tool for showcasing astronomical data and
   knowledge, brought to you by the
-  [American Astronomical Society](https://aas.org/) (AAS). Use WWT online at
-  [worldwidetelescope.org](http://worldwidetelescope.org).
+  [American Astronomical Society](https://aas.org/) (AAS). Find out more at
+  [worldwidetelescope.org](http://worldwidetelescope.org/home/).
 
   <div class="responsive-16x9-container">
     <iframe src="https://www.youtube-nocookie.com/embed/CD_W6wJp26E"
@@ -48,6 +48,7 @@ If you’re not able to make it to any in-person events, try checking out
 Here we archive some of the materials associated with some previous WWT
 events — completeness not guaranteed.
 
+- WWT @ AAS236 (virtual; 2020 June 1)
 - [WWT @ AAS235] (Honolulu, HI, USA; 2020 January 5–9)
 - [WWT @ Petabytes to Science 3] (Boston, MA, USA; 2019 November 6–8)
 - [WWT @ ADASS29] (Groningen, Netherlands; 2019 October 6–10)
