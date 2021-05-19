@@ -1,2 +1,60 @@
-$header-height: 86px;
-$body-font-family: "UniversLTPro-45Light";
+/* Add some nice starry graphics to the sidebar */
+
+.side-bar {
+  background: #f6f7fa url("/starry-edge.jpg") repeat-y;
+}
+
+
+/* Define our custom fonts (matching AAS house style) */
+
+@font-face {
+  font-family: UniversLTPro-45Light;
+  src: url("/fonts/39762C_0_0.eot?#iefix") format("embedded-opentype"), url("/fonts/39762C_0_0.woff2") format("woff2"), url("/fonts/39762C_0_0.woff") format("woff"), url("/fonts/39762C_0_0.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: UniversLTPro-65Bold;
+  src: url("/fonts/39762C_2_0.eot?#iefix") format("embedded-opentype"), url("/fonts/39762C_2_0.woff2") format("woff2"), url("/fonts/39762C_2_0.woff") format("woff"), url("/fonts/39762C_2_0.ttf") format("truetype");
+}
+
+
+/* <details> elements need some fixup */
+
+details {
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+  background-color: #eef;
+  font-size: 110%;
+  border-radius: 6px;
+}
+
+details > summary {
+  display: list-item;  /* justthedocs css overrides this, which is needed to get the disclosure triangle */
+  cursor: pointer;
+  font-size: 110%;
+  font-weight: bold;
+}
+
+details[open] > summary {
+  margin-bottom: 0.5rem;
+}
+
+
+/* YouTube video embeds need help to keep working on mobile - https://flaviocopes.com/responsive-youtube-videos/ */
+
+div.responsive-16x9-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+div.responsive-16x9-container > iframe {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
