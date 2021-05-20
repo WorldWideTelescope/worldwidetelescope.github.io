@@ -13,8 +13,10 @@ There’s no better way to build up the [AAS](https://aas.org/)
 to maintain a regular schedule of events — here’s what’s current:
 
 <details markdown="1">
-  <summary>No events scheduled — email <a href="mailto:wwt@aas.org">wwt@aas.org</a>
-    to inquire!</summary>
+  <summary>WWT @ AAS238</summary>
+
+  - Workshop: [Making the Most of AAS WorldWide Telescope][aas238-workshop] (Friday, June 4)
+  - Splinter session: [Astronomical Data Visualization in the Age of Science Platforms][advasp] (Monday, June 7)
 </details>
 
 <details class="videobox" markdown="1">
@@ -48,6 +50,9 @@ If you’re not able to make it to any in-person events, try checking out
 Here we archive some of the materials associated with some previous WWT
 events — completeness not guaranteed.
 
+- [AAS238] (virtual, 2021 June 7–9)
+  - Workshop: [Making the Most of AAS WorldWide Telescope][aas238-workshop] (Friday, June 4)
+  - Splinter session: [Astronomical Data Visualization in the Age of Science Platforms][advasp] (Monday, June 7)
 - [WWT @ AAS237] (virtual; 2021 January 8)
 - [WWT @ ADASS30] (virtual; 2020 November 8–12)
 - [WWT @ DPS52] (virtual; 2020 October 26–30)
@@ -70,6 +75,9 @@ events — completeness not guaranteed.
 - [WWT @ Mediaglobe Users Group 2015] (Jackson, MS, USA; 2015 August 1)
 - [2015 KICP Workshop] (Chicago, IL, USA; 2015 July 28)
 
+[aas238-workshop]: ./2021/aas238-workshop.md
+[advasp]: ./2021/aas238-webdataviz.md
+[AAS238]: https://aas.org/meetings/aas238/
 [WWT @ AAS237]: https://aas.org/meetings/aas237/program
 [WWT @ ADASS30]: https://adass2020.es/
 [WWT @ DPS52]: https://aas.org/meetings/dps52
