@@ -18,9 +18,16 @@
 }
 
 
+/* Default body font weight leads to some really light, hard-to-read text */
+
+html {
+  font-weight: 700;
+}
+
+
 /* Use the boldface */
 
-b, em, strong {
+h1, h2, h3, b, em, strong {
   font-family: UniversLTPro-65Bold;
 }
 
