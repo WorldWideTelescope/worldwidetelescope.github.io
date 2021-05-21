@@ -13,8 +13,10 @@ There’s no better way to build up the [AAS](https://aas.org/)
 to maintain a regular schedule of events — here’s what’s current:
 
 <details markdown="1">
-  <summary>No events scheduled — email <a href="mailto:wwt@aas.org">wwt@aas.org</a>
-    to inquire!</summary>
+  <summary>WWT @ AAS238</summary>
+
+  - Workshop: [Making the Most of AAS WorldWide Telescope][aas238-workshop] (Friday, June 4)
+  - Splinter session: [Astronomical Data Visualization in the Age of Science Platforms][advasp] (Monday, June 7)
 </details>
 
 <details class="videobox" markdown="1">
@@ -48,7 +50,14 @@ If you’re not able to make it to any in-person events, try checking out
 Here we archive some of the materials associated with some previous WWT
 events — completeness not guaranteed.
 
-- WWT @ AAS236 (virtual; 2020 June 1)
+- [AAS238] (virtual, 2021 June 7–9)
+  - Workshop: [Making the Most of AAS WorldWide Telescope][aas238-workshop] (Friday, June 4)
+  - Splinter session: [Astronomical Data Visualization in the Age of Science Platforms][advasp] (Monday, June 7)
+- [WWT @ AAS237] (virtual; 2021 January 8)
+- [WWT @ ADASS30] (virtual; 2020 November 8–12)
+- [WWT @ DPS52] (virtual; 2020 October 26–30)
+- [WWT @ Astro Hack Week 2020] (virtual; 2020 August 31–September 4)
+- [WWT @ AAS236] (virtual; 2020 June 1)
 - [WWT @ AAS235] (Honolulu, HI, USA; 2020 January 5–9)
 - [WWT @ Petabytes to Science 3] (Boston, MA, USA; 2019 November 6–8)
 - [WWT @ ADASS29] (Groningen, Netherlands; 2019 October 6–10)
@@ -60,12 +69,20 @@ events — completeness not guaranteed.
 - [WWT @ Data to Dome NAOJ] (Tokyo, Japan; 2017 March 2–3)
 - [WWT @ DPS47] (Washington, DC, USA; 2015 November 8–13)
 - [2015 WWT Developer Workshop] (Multiple sites; 2015 November 7)
-- [WWT @ ADASS XXV] (Sydney, Australia; 2015 October 25–30)
+- [WWT @ ADASS25] (Sydney, Australia; 2015 October 25–30)
 - [WWT @ GPLA 2015] (Grand Rapids, MI, USA; 2015 October 16)
 - [2015 Tucson Researcher Workshop] (Tucson, AZ, USA; 2015 September 28)
 - [WWT @ Mediaglobe Users Group 2015] (Jackson, MS, USA; 2015 August 1)
 - [2015 KICP Workshop] (Chicago, IL, USA; 2015 July 28)
 
+[aas238-workshop]: ./2021/aas238-workshop.md
+[advasp]: ./2021/aas238-webdataviz.md
+[AAS238]: https://aas.org/meetings/aas238/
+[WWT @ AAS237]: https://aas.org/meetings/aas237/program
+[WWT @ ADASS30]: https://adass2020.es/
+[WWT @ DPS52]: https://aas.org/meetings/dps52
+[WWT @ Astro Hack Week 2020]: http://astrohackweek.org/2020/
+[WWT @ AAS236]: https://aas.org/meetings/aas236/program
 [WWT @ AAS235]: https://wwt-forum.org/t/researcher-workshop-wwt-aas235-honolulu-usa-2020-january-5/71
 [WWT @ Petabytes to Science 3]: https://wwt-forum.org/t/researcher-workshop-wwt-petabytes-to-science-3-boston-usa-2019-nov-8/86
 [WWT @ ADASS29]: https://wwt-forum.org/t/researcher-workshop-wwt-adass29-groningen-netherlands-2019-october-6/70/2
@@ -77,7 +94,7 @@ events — completeness not guaranteed.
 [WWT @ Data to Dome NAOJ]: ./past/201703-data-to-dome.md
 [WWT @ DPS47]: ./past/201511-dps47.md
 [2015 WWT Developer Workshop]: ./past/201511-developer-workshop.md
-[WWT @ ADASS XXV]: ./past/201510-adass25.md
+[WWT @ ADASS25]: ./past/201510-adass25.md
 [WWT @ GPLA 2015]: ./past/201510-gpla.md
 [2015 Tucson Researcher Workshop]: ./past/201509-tucson.md
 [WWT @ Mediaglobe Users Group 2015]: ./past/201508-mediaglobe.md

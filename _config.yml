@@ -7,6 +7,7 @@ description: >-
 twitter_username: wwtelescope
 github_username: WorldWideTelescope
 remote_theme: pmarsceill/just-the-docs
+color_scheme: wwt
 
 logo: "stacked-logo.png"
 
