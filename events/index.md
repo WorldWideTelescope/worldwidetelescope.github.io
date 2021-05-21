@@ -86,16 +86,16 @@ events — completeness not guaranteed.
 [WWT @ AAS235]: https://wwt-forum.org/t/researcher-workshop-wwt-aas235-honolulu-usa-2020-january-5/71
 [WWT @ Petabytes to Science 3]: https://wwt-forum.org/t/researcher-workshop-wwt-petabytes-to-science-3-boston-usa-2019-nov-8/86
 [WWT @ ADASS29]: https://wwt-forum.org/t/researcher-workshop-wwt-adass29-groningen-netherlands-2019-october-6/70/2
-[WWT @ NPA2019]: ./past/201909-npa2019.md
-[WWT @ AAS234]: ./past/201906-aas234.md
-[WWT @ AAS233]: ./past/201901-aas233.md
-[WWT @ AAS231]: ./past/201801-aas231.md
-[2017 Center for Astrophysics Workshop]: ./past/201711-cfa.md
-[WWT @ Data to Dome NAOJ]: ./past/201703-data-to-dome.md
-[WWT @ DPS47]: ./past/201511-dps47.md
-[2015 WWT Developer Workshop]: ./past/201511-developer-workshop.md
-[WWT @ ADASS25]: ./past/201510-adass25.md
-[WWT @ GPLA 2015]: ./past/201510-gpla.md
-[2015 Tucson Researcher Workshop]: ./past/201509-tucson.md
-[WWT @ Mediaglobe Users Group 2015]: ./past/201508-mediaglobe.md
-[2015 KICP Workshop]: ./past/201507-kicp.md
+[WWT @ NPA2019]: ./2019/npa.md
+[WWT @ AAS234]: ./2019/aas234.md
+[WWT @ AAS233]: ./2019/aas233.md
+[WWT @ AAS231]: ./2018/aas231.md
+[2017 Center for Astrophysics Workshop]: ./2017/cfa.md
+[WWT @ Data to Dome NAOJ]: ./2017/data-to-dome.md
+[WWT @ DPS47]: ./2015/dps47.md
+[2015 WWT Developer Workshop]: ./2015/developer-workshop.md
+[WWT @ ADASS25]: ./2015/adass25.md
+[WWT @ GPLA 2015]: ./2015/gpla.md
+[2015 Tucson Researcher Workshop]: ./2015/tucson.md
+[WWT @ Mediaglobe Users Group 2015]: ./2015/mediaglobe.md
+[2015 KICP Workshop]: ./2015/kicp.md

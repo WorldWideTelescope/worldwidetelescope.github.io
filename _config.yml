@@ -15,7 +15,7 @@ aux_links:
   "Source on GitHub!":
     - "//github.com/WorldWideTelescope/worldwidetelescope.github.io/"
 
-footer_content: "Copyright 2019-2020 the .NET Foundation. The AAS WorldWide Telescope is brought to you by the American Astronomical Society <a href=\"/#acknowledgments\">and other supporters</a>."
+footer_content: "Copyright 2019-2021 the .NET Foundation. AAS WorldWide Telescope is brought to you by the American Astronomical Society <a href=\"/#acknowledgments\">and other supporters</a>."
 
 ga_tracking: UA-107473046-4
 
