@@ -7,7 +7,7 @@ nav_exclude: true
 
 The AAS238 edition of our introductory WWT workshop will take place at **11:00
 AM (US Eastern time) on Friday, June 4**, using [Zoom]. **Sign up when you
-[register] for the conference.**
+[register] for the conference.** There is a $25 registration fee.
 
 [Zoom]: https://zoom.us/
 [register]: https://aas.org/meetings/aas238/register
