@@ -23,15 +23,26 @@ question. The meeting will take place in two sessions on **Monday, June 7**:
 [s1]: https://www.abstractsonline.com/pp8/#!/9363/session/195
 [s2]: https://www.abstractsonline.com/pp8/#!/9363/session/84
 
-*Attendance is open to all [registered] AAS238 attendees!* Questions? Contact
-the organizer, Peter K. G. Williams at <pwilliams@cfa.harvard.edu>.
+Questions? Contact
+the organizer, Peter K. G. Williams, at <pwilliams@cfa.harvard.edu>.
+
+
+## Sign-In
+
+*Attendance is open to all [registered] AAS238 attendees — no pre-registration
+required!* But if you’re interested in attending or in getting updates on
+post-meeting activities, we ask you to share your contact information here:
 
 [registered]: https://aas.org/meetings/aas238/register
+
+[Fill in the sign-in form!][signin]{: .btn .btn-purple }
+
+[signin]: https://docs.google.com/forms/d/e/1FAIpQLScJLyUcHKOWweAtVrBBjReBDMb1xChjrSBMASwShsluewgVYA/viewform?usp=sf_link
 
 
 ## Meeting Schedule
 
-(Subject to change.) All times are US Eastern (= UTC - 4).
+All times are US Eastern (= UTC - 4).
 
 | **Start Time** | **Session 1 Topic** | **Who** |
 | ---------- | ---- | --- |
@@ -52,7 +63,7 @@ the organizer, Peter K. G. Williams at <pwilliams@cfa.harvard.edu>.
 | 4:28 PM | [js9] | Eric Mandel (SAO) |
 | 4:40 PM | [MAST] | Joshua Peek (STScI) |
 | 4:52 PM | [WWT] / Breakout Instructions | Peter Williams (Harvard/AAS) |
-| 5:04 PM | Breakout discussions and synthesis | Everyone! |
+| 5:04 PM | Breakouts — see below | Everyone! |
 | 5:40 PM | End of session 2 | — |
 
 [ESASky]: https://sky.esa.int/
@@ -68,13 +79,34 @@ the organizer, Peter K. G. Williams at <pwilliams@cfa.harvard.edu>.
 [WWT]: https://worldwidetelescope.org/home/
 
 
-## Outcomes
+## Breakouts and Next Steps
 
-Workshop participants will begin work on a “needs assessment” that will define a
-vision for the future of astronomical data visualization and analyze the
-progress needed to turn that vision into a reality. This document will help
-guide the investments that will be necessary to enable the broad astrophysics
-community to make the most of the coming age of science platforms.
+A major goal of the event is to stimulate the creation of a “needs assessment”
+report that will define a vision for the future of astronomical data
+visualization and analyze the progress needed to turn that vision into a
+reality. This document will help guide the investments that will be necessary to
+enable the broad astrophysics community to make the most of the coming age of
+science platforms.
+
+At the end of the workshop, attendees will kick off this assessment with a **breakout
+discussion period**. The agenda is:
+
+1. First Breakout: What *trends* can we identify from the days’ presentations?
+  - Everyone is randomly assigned into breakout rooms
+  - Remember your room number!
+  - Choose a “reporter” who will report back to the main group
+  - Discuss as a group and identify three trends
+  - Return from breakout; reporters share their groups’ findings
+2. Second Breakout: What *unmet needs* can we identify?
+  - Everyone is randomly assigned into breakout rooms
+  - Remember your room number!
+  - Choose a “reporter” who will report back to the main group
+  - Discuss as a group and identify three trends
+  - Return from breakout; reporters share their groups’ findings
+
+After the workshop, volunteers will collaborate to formalize these findings into
+a brief written report. Indicate your interest in the writing process using [the
+sign-in form][signin].
 
 
 ## Contact
