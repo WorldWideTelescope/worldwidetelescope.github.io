@@ -23,8 +23,16 @@ question. The meeting will take place in two sessions on **Monday, June 7**:
 [s1]: https://www.abstractsonline.com/pp8/#!/9363/session/195
 [s2]: https://www.abstractsonline.com/pp8/#!/9363/session/84
 
-Questions? Contact
-the organizer, Peter K. G. Williams, at <pwilliams@cfa.harvard.edu>.
+The official AAS238 Slack has a channel for this meeting, which is the
+recommended venue for questions and side-channel discussion:
+
+- `#splinter_astronomical_data_visualization_in_the_age_of_science_platforms_i`
+- There is also a separate `#..._ii` channel for the second session, but we
+  encourage people to use the first channel only to keep the conversation all in
+  the same place.
+
+Questions? Contact the organizer, Peter K. G. Williams, at
+<pwilliams@cfa.harvard.edu>.
 
 
 ## Sign-In
