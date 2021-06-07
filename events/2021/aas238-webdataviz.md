@@ -109,7 +109,7 @@ discussion period**. The agenda is:
   - Everyone is randomly assigned into breakout rooms
   - Remember your room number!
   - Choose a “reporter” who will report back to the main group
-  - Discuss as a group and identify three trends
+  - Discuss as a group and identify three needs
   - Return from breakout; reporters share their groups’ findings
 
 After the workshop, volunteers will collaborate to formalize these findings into
