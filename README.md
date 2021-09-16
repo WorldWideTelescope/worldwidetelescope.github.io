@@ -47,6 +47,15 @@ to serve the site locally. For more information, see
 [the GitHub documentation](https://help.github.com/en/articles/using-jekyll-as-a-static-site-generator-with-github-pages)
 on Jekyll static sites.
 
+**NOTE:** GitHub’s Jekyll configuration only works on Ruby 2.7 right now
+([ref1]). The version of Ruby on conda-forge is 2.7, but on recent Fedora is
+3.0, which is why I (PKGW) don't have an OS version installed. In order to build
+Ruby extensions with the conda-forge distribution, though, you need to have
+compiler packages such as `gcc_linux-64` and `gxx_linux-64`, which might then
+interfere with your OS compilers.
+
+[ref1]: https://talk.jekyllrb.com/t/error-no-implicit-conversion-of-hash-into-integer/5890/4
+
 
 ## Acknowledgments
 
