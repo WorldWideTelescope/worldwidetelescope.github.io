@@ -13,10 +13,10 @@ There’s no better way to build up the [AAS](https://aas.org/)
 to maintain a regular schedule of events — here’s what’s current:
 
 <details markdown="1">
-  <summary>WWT @ AAS238</summary>
+  <summary>WWT @ AAS239</summary>
 
-  - Workshop: [Making the Most of AAS WorldWide Telescope][aas238-workshop] (Friday, June 4)
-  - Splinter session: [Astronomical Data Visualization in the Age of Science Platforms][advasp] (Monday, June 7)
+  - Workshop: [Making the Most of AAS WorldWide Telescope][aas239-workshop] (Saturday, January 8)
+  - Special session: [Interactive Digital Research, Education, and Science Communication with AAS WorldWide Telescope][wwt239] (Thursday, January 13)
 </details>
 
 <details class="videobox" markdown="1">
@@ -75,6 +75,9 @@ events — completeness not guaranteed.
 - [WWT @ Mediaglobe Users Group 2015] (Jackson, MS, USA; 2015 August 1)
 - [2015 KICP Workshop] (Chicago, IL, USA; 2015 July 28)
 
+[aas239-workshop]: ./2022/aas239-workshop.md
+[wwt239]: ./2022/aas239-session.md
+[AAS239]: https://aas.org/meetings/aas239/
 [aas238-workshop]: ./2021/aas238-workshop.md
 [advasp]: ./2021/aas238-webdataviz.md
 [AAS238]: https://aas.org/meetings/aas238/
