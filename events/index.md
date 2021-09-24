@@ -13,10 +13,16 @@ There’s no better way to build up the [AAS](https://aas.org/)
 to maintain a regular schedule of events — here’s what’s current:
 
 <details markdown="1">
-  <summary>WWT @ AAS239</summary>
+  <summary>WWT @ AAS239 (2022 Jan 9–13)</summary>
 
   - Workshop: [Making the Most of AAS WorldWide Telescope][aas239-workshop] (Saturday, January 8)
   - Special session: [Interactive Digital Research, Education, and Science Communication with AAS WorldWide Telescope][wwt239] (Thursday, January 13)
+</details>
+
+<details markdown="1">
+  <summary>WWT @ ADASS2021 (2021 Oct 24–28)</summary>
+
+  - [Focus Demo][adass31] (date TBD)
 </details>
 
 <details class="videobox" markdown="1">
@@ -78,6 +84,7 @@ events — completeness not guaranteed.
 [aas239-workshop]: ./2022/aas239-workshop.md
 [wwt239]: ./2022/aas239-session.md
 [AAS239]: https://aas.org/meetings/aas239/
+[adass31]: ./2021/adass31.md
 [aas238-workshop]: ./2021/aas238-workshop.md
 [advasp]: ./2021/aas238-webdataviz.md
 [AAS238]: https://aas.org/meetings/aas238/
