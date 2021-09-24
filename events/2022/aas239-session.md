@@ -42,6 +42,8 @@ Here’s how to submit:
    Telescope**.
 5. For the presentation type, choose *Oral*. If you’re interested in submitting
    a poster, please contact the session organizer as described below.
+6. If you’ve submitted an abstract, or if you’re thinking about doing so, please
+   [let the organizer know](mailto:pwilliams@cfa.harvard.edu)!
 
 [subabs]: https://submissions.mirasmart.com/AAS239
 
