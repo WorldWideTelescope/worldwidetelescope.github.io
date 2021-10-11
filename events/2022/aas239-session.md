@@ -47,7 +47,7 @@ Here’s how to submit:
 
 [subabs]: https://submissions.mirasmart.com/AAS239
 
-Abstracts are due **October 12th**.
+Abstracts are due **October 29th**. (The original deadline was extended.)
 
 
 ## Contact
