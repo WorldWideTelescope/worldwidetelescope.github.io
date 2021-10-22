@@ -7,8 +7,11 @@ nav_exclude: true
 
 ## Cape Town, South Africa and online; 2021 October 24–28
 
-We look forward to welcoming attendees to this focus demo! The date of the event
-is TBD.
+We look forward to welcoming attendees to this focus demo! The [event][pretalx]
+will take place at 9 PM SAST (= [19:00 UTC][convert]) and be conducted virtually.
+
+[pretalx]: https://pretalx.adass2021.ac.za/adass-xxxi-2021/talk/9TTUAX/
+[convert]: https://www.timeanddate.com/worldclock/converter.html?iso=20211025T190000&p1=56&p2=179&p3=136&p4=248&p5=137
 
 ### Abstract
 

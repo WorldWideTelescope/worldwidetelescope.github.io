@@ -22,7 +22,7 @@ to maintain a regular schedule of events — here’s what’s current:
 <details markdown="1">
   <summary>WWT @ ADASS2021 (2021 Oct 24–28)</summary>
 
-  - [Focus Demo][adass31] (date TBD)
+  - [Focus Demo][adass31] (Monday, October 25)
 </details>
 
 <details class="videobox" markdown="1">
