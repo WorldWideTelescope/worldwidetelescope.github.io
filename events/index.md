@@ -15,7 +15,7 @@ to maintain a regular schedule of events — here’s what’s current:
 <details markdown="1">
   <summary>WWT @ AAS239 (2022 Jan 9–13)</summary>
 
-  - Sat, Jan 8 — Workshop: [Making the Most of AAS WorldWide Telescope][aas239-workshop]
+  - Sat, Jan 8 — Tutorial: [Making the Most of AAS WorldWide Telescope][aas239-workshop]
   - Mon, Jan 10 — [WWT 2022 launch event][aas239-launch]
   - Thu, Jan 13 — Special session: [Interactive Digital Research, Education, and Science Communication with AAS WorldWide Telescope][aas239-session]
 </details>

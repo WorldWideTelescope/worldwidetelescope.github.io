@@ -3,7 +3,7 @@ title: "AAS239: Making the Most of AAS WorldWide Telescope"
 nav_exclude: true
 ---
 
-# AAS239 Workshop: Making the Most of AAS WorldWide Telescope
+# AAS239 Tutorial: Making the Most of AAS WorldWide Telescope
 
 The AAS239 edition of our introductory WWT workshop will take place at **11:00
 AM (US Mountain time) on Saturday, January 8**. Sign up when you
@@ -27,7 +27,8 @@ program planner][pp]:
 > research, education, and public outreach.
 
 No prior WWT experience is necessary! Nor is any software installation — all
-activities will use cloud-based services. All you need is a laptop.
+activities will use cloud-based services. All you need is a laptop with a
+charging cable and a recent web browser installed.
 
 
 ## Helpful Links
