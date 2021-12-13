@@ -5,8 +5,9 @@ nav_exclude: true
 
 # Interactive Digital Research, Education, and Science Communication with AAS WorldWide Telescope
 
-This **AAS239 special session** will take place from 10:00 to 11:30 AM (US
-Mountain Time) on Thursday, January 13th, in Meeting Room 155E. The short description is:
+This **AAS239 special session**, program number **407**, will take place from
+10:00 to 11:30 AM (US Mountain Time) on Thursday, January 13th, in Meeting Room
+155E. The short description is:
 
 > AAS WorldWide Telescope (WWT) is a tool for showcasing astronomical data and
 > knowledge. WWT can run everywhere from cell phones to state-of-the-art
@@ -22,32 +23,26 @@ See [the AAS239 meeting program][pp] for the official session description.
 [pp]: https://submissions.mirasmart.com/AAS239/itinerary/EventDetail.aspx?evt=16
 
 
-## Your Contributions are Wanted!
+## Meeting Schedule
 
-You ­— yes, *you* — are invited to contribute to this special session! Any
-registered [AAS239] attendee can submit an abstract, and presentations on any
-use of AAS WorldWide Telescope are welcome. The best thing about this option is
-that an abstract submitted to this special session *doesn’t count against the
-usual limit* of one abstract per person, per year.
+All times are US Mountain Standard (= UTC - 7).
 
-[AAS239]: https://aas.org/meetings/aas239/
+| **Start Time** | **Program Number** | **Topic** | **Presenter** |
+| -------------- | ------------------ | --------- | ------------- |
+| 10:00 AM | [407.01] | Opening Remarks | Peter Williams (Harvard/AAS) |
+| 10:08 AM | [407.02] | WorldWide Telescope Interactives in Astronomy Education | Pat Udomprasert (Harvard) |
+| 10:23 AM | [407.03] | The Star Hunt and Star Hunt Plus | Jonathan C. Tan (Chalmers/U. Virginia) |
+| 10:38 AM | [407.04] | NOIRLab Collection in WWT | David Weigel (US Space & Rocket Center) |
+| 10:53 AM | [407.05] | WorldWide Telescope in Sky & Telescope | Monica Young (Sky & Telescope) |
+| 11:08 AM | [407.06] | Embedding AAS WorldWide Telescope into OpenSpace to Contextualize Sky Within the AMNH Digital Universe 3D Atlas | Carter Emmart (AMNH) |
+| 11:23 AM | — | Free-form discussion | All |
 
-Here’s how to submit:
-
-1. Go to [the AAS239 abstract submission page][subabs]
-2. Create a new abstract of the *Research Contributed Presentations* type.
-3. When prompted whether you want to submit to a Special Session, select **Yes**.
-4. For the special session to submit to, choose this one: **Interactive Digital
-   Research, Education, and Science Communication with AAS WorldWide
-   Telescope**.
-5. For the presentation type, choose *Oral*. If you’re interested in submitting
-   a poster, please contact the session organizer as described below.
-6. If you’ve submitted an abstract, or if you’re thinking about doing so, please
-   [let the organizer know](mailto:pwilliams@cfa.harvard.edu)!
-
-[subabs]: https://submissions.mirasmart.com/AAS239
-
-Abstracts are due **October 29th**. (The original deadline was extended.)
+[407.01]: https://submissions.mirasmart.com/AAS239/itinerary/PresentationDetail.aspx?evdid=117
+[407.02]: https://submissions.mirasmart.com/AAS239/itinerary/PresentationDetail.aspx?evdid=119
+[407.03]: https://submissions.mirasmart.com/AAS239/itinerary/PresentationDetail.aspx?evdid=120
+[407.04]: https://submissions.mirasmart.com/AAS239/itinerary/PresentationDetail.aspx?evdid=121
+[407.05]: https://submissions.mirasmart.com/AAS239/itinerary/PresentationDetail.aspx?evdid=124
+[407.06]: https://submissions.mirasmart.com/AAS239/itinerary/PresentationDetail.aspx?evdid=125
 
 
 ## Contact
