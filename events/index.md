@@ -15,14 +15,9 @@ to maintain a regular schedule of events — here’s what’s current:
 <details markdown="1">
   <summary>WWT @ AAS239 (2022 Jan 9–13)</summary>
 
-  - Workshop: [Making the Most of AAS WorldWide Telescope][aas239-workshop] (Saturday, January 8)
-  - Special session: [Interactive Digital Research, Education, and Science Communication with AAS WorldWide Telescope][wwt239] (Thursday, January 13)
-</details>
-
-<details markdown="1">
-  <summary>WWT @ ADASS2021 (2021 Oct 24–28)</summary>
-
-  - [Focus Demo][adass31] (Monday, October 25)
+  - Sat, Jan 8 — Workshop: [Making the Most of AAS WorldWide Telescope][aas239-workshop]
+  - Mon, Jan 10 — [WWT 2022 launch event][aas239-launch]
+  - Thu, Jan 13 — Special session: [Interactive Digital Research, Education, and Science Communication with AAS WorldWide Telescope][aas239-session]
 </details>
 
 <details class="videobox" markdown="1">
@@ -56,6 +51,7 @@ If you’re not able to make it to any in-person events, try checking out
 Here we archive some of the materials associated with some previous WWT
 events — completeness not guaranteed.
 
+- [WWT @ ADASS31][adass31] focus demo (virtual; 2021 October 25)
 - [AAS238] (virtual, 2021 June 7–9)
   - Workshop: [Making the Most of AAS WorldWide Telescope][aas238-workshop] (Friday, June 4)
   - Splinter session: [Astronomical Data Visualization in the Age of Science Platforms][advasp] (Monday, June 7)
@@ -82,7 +78,8 @@ events — completeness not guaranteed.
 - [2015 KICP Workshop] (Chicago, IL, USA; 2015 July 28)
 
 [aas239-workshop]: ./2022/aas239-workshop.md
-[wwt239]: ./2022/aas239-session.md
+[aas239-launch]: ./2022/aas239-launch.md
+[aas239-session]: ./2022/aas239-session.md
 [AAS239]: https://aas.org/meetings/aas239/
 [adass31]: ./2021/adass31.md
 [aas238-workshop]: ./2021/aas238-workshop.md
