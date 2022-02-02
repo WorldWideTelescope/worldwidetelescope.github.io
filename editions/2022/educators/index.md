@@ -91,3 +91,5 @@ forum][forum] or [contacting the WWT Ambassadors][wwta-contact].
 
 [forum]: https://wwt-forum.org/
 [wwta-contact]: https://wwtambassadors.org/contact-us
+
+[Go back to the WWT 2022 edition notes.](..)

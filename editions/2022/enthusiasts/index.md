@@ -55,3 +55,5 @@ forum][forum], or asking through one of the social media channels listed on the
 [Connect][connect] page.
 
 [forum]: https://wwt-forum.org/
+
+[Go back to the WWT 2022 edition notes.](..)

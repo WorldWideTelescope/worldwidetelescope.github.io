@@ -21,6 +21,7 @@ that comprise the WWT ecosystem. This edition homepage covers:
 - [What’s New](#whats-new)
 - [See WWT 2022 In Action](#see-wwt-2022-in-action)
 - [Get Started with WWT 2022](#get-started-with-wwt-2022)
+- [Additional Resources](#additional-resources)
 
 
 ## What’s New
@@ -96,5 +97,19 @@ uses. Here are our recommendations for different kinds of users:
 - [Enthusiasts](./enthusiasts/): explore the universe with WWT's web and Windows applications
 - [Educators](./educators/): explore WWT educational apps and create your own “guided tours”
 - [Planetarians](./planetarians/): set up WWT in your planetarium or museum
-- [Image creators](): install WWT’s data processing tools
-- [App developers](): start using the WWT toolkit in Python or JavaScript/TypeScript
+- [Image creators](./creators/): install WWT’s data processing tools
+- [App developers](./developers/): start using the WWT toolkit in Python or JavaScript/TypeScript
+
+
+## Additional Resources
+
+WWT 2022 comes with many more resources for you to start using it.
+
+- [The WWT Documentation Hub][dochub], home to virtually all primary WWT documentation
+- Research users can seek help in the `#wwt` channel of the [Astropy Slack
+  workspace](https://astropy.slack.com/). If you're not already a member, you
+  can [get an Astropy Slack account](http://joinslack.astropy.org/) in one
+  simple step.
+- *More links to come!*
+
+[dochub]: https://docs.worldwidetelescope.org/

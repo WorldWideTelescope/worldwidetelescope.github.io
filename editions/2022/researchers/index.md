@@ -117,3 +117,5 @@ If you run into any issues, we recommend asking in the `#wwt` channel of the
 [Astropy Slack workspace](https://astropy.slack.com/). If you're not already a
 member, you can [get an Astropy Slack account](http://joinslack.astropy.org/) in
 one simple step.
+
+[Go back to the WWT 2022 edition notes.](..)
