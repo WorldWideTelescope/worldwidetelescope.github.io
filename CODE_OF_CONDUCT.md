@@ -1,5 +1,5 @@
 ---
-title: WWT Code of Conduct
+title: Code of Conduct
 permalink: "/code-of-conduct/"
 nav_order: 3
 ---

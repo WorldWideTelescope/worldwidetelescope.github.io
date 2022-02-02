@@ -1,5 +1,5 @@
 ---
-title: WWT Events
+title: Events
 nav_order: 4
 ---
 

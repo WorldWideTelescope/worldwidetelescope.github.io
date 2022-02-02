@@ -1,5 +1,5 @@
 ---
-title: WWT Contributors’ Guide
+title: Contributors’ Guide
 permalink: "/contributing/"
 nav_order: 2
 ---
