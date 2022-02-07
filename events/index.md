@@ -13,11 +13,10 @@ There’s no better way to build up the [AAS](https://aas.org/)
 to maintain a regular schedule of events — here’s what’s current:
 
 <details markdown="1">
-  <summary>WWT @ AAS239 (2022 Jan 9–13)</summary>
+  <summary>2022 Feb 15: <a href="../editions/2022">WWT 2022 launches!</a></summary>
 
-  - Sat, Jan 8 — Tutorial: [Making the Most of AAS WorldWide Telescope][aas239-workshop]
-  - Mon, Jan 10 — [WWT 2022 launch event][aas239-launch]
-  - Thu, Jan 13 — Special session: [Interactive Digital Research, Education, and Science Communication with AAS WorldWide Telescope][aas239-session]
+  The latest version of AAS WorldWide Telescope [will officially launch on
+  February 15th][wwt2022].
 </details>
 
 <details class="videobox" markdown="1">
@@ -51,6 +50,12 @@ If you’re not able to make it to any in-person events, try checking out
 Here we archive some of the materials associated with some previous WWT
 events — completeness not guaranteed.
 
+- [WWT 2022 launch][wwt2022] (virtual; 2022 February 15)
+- [AAS239]: events were planned for 2022 January, but the meeting was canceled
+  - Tutorial “Making the Most of AAS WorldWide Telescope”: canceled <!-- history: 2022/aas239-workshop.md -->
+  - WWT 2022 launch: postponed (see above)
+  - Special session “Interactive Digital Research, Education, and Science
+    Communication with AAS WorldWide Telescope”: postponed <!-- history: 2022/aas239-session.md -->
 - [WWT @ ADASS31][adass31] focus demo (virtual; 2021 October 25)
 - [AAS238] (virtual, 2021 June 7–9)
   - Workshop: [Making the Most of AAS WorldWide Telescope][aas238-workshop] (Friday, June 4)
@@ -77,9 +82,7 @@ events — completeness not guaranteed.
 - [WWT @ Mediaglobe Users Group 2015] (Jackson, MS, USA; 2015 August 1)
 - [2015 KICP Workshop] (Chicago, IL, USA; 2015 July 28)
 
-[aas239-workshop]: ./2022/aas239-workshop.md
-[aas239-launch]: ./2022/aas239-launch.md
-[aas239-session]: ./2022/aas239-session.md
+[wwt2022]: ../editions/2022/
 [AAS239]: https://aas.org/meetings/aas239/
 [adass31]: ./2021/adass31.md
 [aas238-workshop]: ./2021/aas238-workshop.md
