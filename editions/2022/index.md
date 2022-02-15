@@ -26,6 +26,7 @@ that comprise the WWT ecosystem. This edition homepage covers:
 - [See WWT 2022 In Action](#see-wwt-2022-in-action)
 - [Get Started with WWT 2022](#get-started-with-wwt-2022)
 - [Release Notes](#release-notes)
+- [Donate to WWT](#donate-to-wwt)
 - [Additional Resources](#additional-resources)
 
 
@@ -135,6 +136,21 @@ to previous versions.
 
 To learn about changes to a component of WWT 2022 not listed above, consult its
 technical changelog as linked from the [detailed versions list](./components/).
+
+
+## Donate to WWT
+
+As part of the non-profit [American Astronomical Society][aas], WWT's mission is
+to help scientists and educators showcase astronomical data and knowledge. WWT's
+web servers send out gigabytes of data every hour to hundreds of thousands of
+visitors every year. Your contributions help keep the WWT servers running,
+delivering beautiful astronomical imagery to users around the world for free,
+and demonstrate the breadth of the community that values WWT. Please consider
+donating to WWT and spreading the word!
+
+[aas]: https://aas.org/
+
+> ### [Click here to donate to WWT now!](https://my.aas.org/services/AAS_Member/Fundraising/WWT/Donate_Now.aspx)
 
 
 ## Additional Resources
