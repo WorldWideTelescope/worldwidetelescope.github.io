@@ -33,10 +33,12 @@ that comprise the WWT ecosystem. This edition homepage covers:
 ## What’s New
 
 So many things! WWT 2022 wraps up several years’ worth of improvements to all
-aspects of WWT. [Watch the official WWT 2022 launch video for a
-tour][yt]{:target="_blank"}. The highlights include:
+aspects of WWT. [Watch the official WWT 2022 launch video][yt]{:target="_blank"}
+or [read the AAS press release][pr]{:target="_blank"} for an overview. The
+highlights include:
 
 [yt]: https://youtu.be/U7PIAKCZHYM
+[pr]: https://aas.org/press/WWT-2022
 
 - A new WWT “research app” for seamlessly integrated data analysis
   and visualization in [JupyterLab]
