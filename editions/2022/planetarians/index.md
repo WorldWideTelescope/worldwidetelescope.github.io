@@ -21,7 +21,7 @@ exciting tool for all kinds of planetarians!
 The first thing to do is to get your hands on the WWT software. For planetarium
 uses, you’ll want the WWT Windows application:
 
-### <https://worldwidetelescope.org/download/>
+> <https://worldwidetelescope.org/download/>
 
 If you’re new to WWT, have some fun playing around with it and exploring the
 interface!

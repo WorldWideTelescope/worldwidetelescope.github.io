@@ -3,16 +3,12 @@ title: WWT 2022
 nav_exclude: true
 ---
 
-<!-- trailer: -->
-<iframe width="736" height="414" src="https://www.youtube.com/embed/DOyBwdS-HE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- launch video: -->
+<iframe width="736" height="414" src="https://www.youtube.com/embed/U7PIAKCZHYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # WWT 2022
 
-The 2022 edition of AAS WorldWide Telescope will launch on February 15th, 2022.
-[Watch the trailer and set a reminder for the YouTube Premiere launch event (1
-PM US Eastern) here][yt].
-
-[yt]: https://youtu.be/U7PIAKCZHYM
+The 2022 edition of AAS WorldWide Telescope launched on February 15th, 2022.
 
 WWT isn’t a physical telescope — it’s a suite of free and open source software
 and data sets that combine to create stunning scientific visualizations and
@@ -29,13 +25,17 @@ that comprise the WWT ecosystem. This edition homepage covers:
 - [What’s New](#whats-new)
 - [See WWT 2022 In Action](#see-wwt-2022-in-action)
 - [Get Started with WWT 2022](#get-started-with-wwt-2022)
+- [Release Notes](#release-notes)
 - [Additional Resources](#additional-resources)
 
 
 ## What’s New
 
 So many things! WWT 2022 wraps up several years’ worth of improvements to all
-aspects of WWT. Highlights include:
+aspects of WWT. [Watch the official WWT 2022 launch video for a
+tour][yt]{:target="_blank"}. The highlights include:
+
+[yt]: https://youtu.be/U7PIAKCZHYM
 
 - A new WWT “research app” for seamlessly integrated data analysis
   and visualization in [JupyterLab]
