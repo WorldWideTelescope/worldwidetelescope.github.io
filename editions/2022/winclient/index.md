@@ -35,7 +35,8 @@ If you have any questions about this, contact the team at <wwt@aas.org>.
 ## Installation & Getting Started
 
 To learn more about installing and getting started with the WWT Windows client,
-see the [Enthusiasts](../enthusiasts/) page.
+see the [Enthusiasts](../enthusiasts/) and [Planetarians](../planetarians/)
+pages.
 
 ## HiPS Support
 
@@ -66,11 +67,25 @@ of interest to you.
 Some FITS cubes can now be loaded in the app such that you can scrub through the
 cube planes interactively.
 
-## Updated Branding
+## Updated Branding and System Locations
 
 WWT assets have been updated to align with AAS’s stewardship of the project. In
 particular, installation and data storage directories are now filed under
-“American Astronomical Society” rather than “Microsoft Research”.
+“American Astronomical Society” rather than “Microsoft Research”. In particular:
+
+- The default installation location has moved from `[ProgramFiles]\Microsoft
+  Research\Microsoft WorldWide Telescope` to `[ProgramFiles]\American
+  Astronomical Society\AAS WorldWide Telescope`.
+- The user data storage location has moved from
+  `[LocalAppData]\Microsoft\WorldWideTelescope` to `[LocalAppData]\American
+  Astronomical Society\WorldWideTelescope`. (Here, `[LocalAppData]` is usually
+  `C:\Users\[user]\AppData\Local`.)
+- The location for WWT configuration registry keys has moved from
+  `HKCU\Software\Microsoft\WorldWide Telescope` to `HKCU\Software\American
+  Astronomical Software\WorldWide Telescope`.
+
+These moves may break the usages of some tools such as the [Remote
+Control](../remote/) or custom system startup scripts.
 
 ## More 3D Models
 
