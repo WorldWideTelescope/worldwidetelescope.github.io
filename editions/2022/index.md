@@ -109,6 +109,13 @@ uses. Here are our recommendations for different kinds of users:
 - [App developers](./developers/): start using the WWT toolkit in Python or JavaScript/TypeScript
 
 
+## Release Notes
+
+In these notes you'll find in-depth discussions of changes in WWT 2022.
+
+- [Detailed list of WWT 2022 component versions](./components/)
+
+
 ## Additional Resources
 
 WWT 2022 comes with many more resources for you to start using it.
