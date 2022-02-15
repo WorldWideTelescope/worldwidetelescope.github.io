@@ -17,27 +17,31 @@ numbers at the time of the release. Most package version numbers follow the
 
 | Name | Version | Repo / README | Other links |
 |:-----|--------:|:--------------|:------------|
-| [@wwtelescope/embed][wwt_embed_npm] | 1.5.3 | [wwt-webgl-engine/embed][wwt_embed_rm] | [deployed][wwt_embed_deployed], [changelog][wwt_embed_cl] |
-| [@wwtelescope/embed-creator][wwt_embed-creator_npm] | 0.3.4 | [wwt-webgl-engine/embed-creator][wwt_embed-creator_rm] | [deployed][wwt_embed-creator_deployed], [changelog][wwt_embed-creator_cl] |
-| [@wwtelescope/research-app][wwt_research-app_npm] | 0.9.2 | [wwt-webgl-engine/research-app][wwt_research-app_rm] | [deployed][wwt_research-app_deployed], [docs][wwt_research-app_docs], [changelog][wwt_research-app_cl] |
-| [@wwtelescope/webclient][wwt_webclient_npm] | 6.3.3 | [wwt-web-client][wwt_webclient_rm] | [deployed][wwt_webclient_deployed], [changelog][wwt_webclient_cl] |
+| [@wwtelescope/embed][wwt_embed_npm] | 1.5.3 | [wwt-webgl-engine/embed][wwt_embed_rm] | [deployed][wwt_embed_deployed], [release notes][wwt_embed_rn], [changelog][wwt_embed_cl] |
+| [@wwtelescope/embed-creator][wwt_embed-creator_npm] | 0.3.4 | [wwt-webgl-engine/embed-creator][wwt_embed-creator_rm] | [deployed][wwt_embed-creator_deployed], [release notes][wwt_embed-creator_rn], [changelog][wwt_embed-creator_cl] |
+| [@wwtelescope/research-app][wwt_research-app_npm] | 0.9.2 | [wwt-webgl-engine/research-app][wwt_research-app_rm] | [deployed][wwt_research-app_deployed], [docs][wwt_research-app_docs], [release notes][wwt_research-app_rn], [changelog][wwt_research-app_cl] |
+| [@wwtelescope/webclient][wwt_webclient_npm] | 6.3.3 | [wwt-web-client][wwt_webclient_rm] | [deployed][wwt_webclient_deployed], [release notes][wwt_webclient_rn], [changelog][wwt_webclient_cl] |
 
 [wwt_embed_npm]: https://npmjs.com/package/@wwtelescope/embed
 [wwt_embed_rm]: https://github.com/WorldWideTelescope/wwt-webgl-engine/tree/master/embed#readme
 [wwt_embed_deployed]: https://web.wwtassets.org/embed/1/wwt/
+[wwt_embed_rn]: ../embed/
 [wwt_embed_cl]: https://github.com/WorldWideTelescope/wwt-webgl-engine/blob/release/embed/CHANGELOG.md#wwtelescopeembed-153-2021-10-21
 [wwt_embed-creator_npm]: https://npmjs.com/package/@wwtelescope/embed-creator
 [wwt_embed-creator_rm]: https://github.com/WorldWideTelescope/wwt-webgl-engine/tree/master/embed-creator#readme
 [wwt_embed-creator_deployed]: https://embed.worldwidetelescope.org/
+[wwt_embed-creator_rn]: ../embed-creator]
 [wwt_embed-creator_cl]: https://github.com/WorldWideTelescope/wwt-webgl-engine/blob/release/embed-creator/CHANGELOG.md#wwtelescopeembed-creator-034-2021-06-03
 [wwt_research-app_npm]: https://npmjs.com/package/@wwtelescope/research-app
 [wwt_research-app_rm]: https://github.com/WorldWideTelescope/wwt-webgl-engine/tree/master/research-app#readme
 [wwt_research-app_deployed]: https://web.wwtassets.org/research/latest/
 [wwt_research-app_docs]: https://docs.worldwidetelescope.org/research-app/latest/
+[wwt_research-app_rn]: ../research-app/
 [wwt_research-app_cl]: https://github.com/WorldWideTelescope/wwt-webgl-engine/blob/release/research-app/CHANGELOG.md#wwtelescoperesearch-app-092-2022-01-19
 [wwt_webclient_npm]: https://npmjs.com/package/@wwtelescope/webclient
 [wwt_webclient_rm]: https://github.com/WorldWideTelescope/wwt-web-client/#readme
 [wwt_webclient_deployed]: https://worldwidetelescope.org/webclient/
+[wwt_webclient_rn]: ../webclient/
 [wwt_webclient_cl]: https://github.com/WorldWideTelescope/wwt-web-client/blob/release/CHANGELOG.md#wwtelescopewebclient-633-2022-02-10
 
 
@@ -45,43 +49,51 @@ numbers at the time of the release. Most package version numbers follow the
 
 | Name | Version | Repo / README | Other links |
 |:-----|--------:|:--------------|:------------|
-| WWT Windows Client | 6.1.0 | [wwt-windows-client][winclient_rm] | [installation][winclient_install], [docs][winclient_docs], [changelog][winclient_cl] |
-| WWT Aligner | 0.5.0 | [wwt-aligner][aligner_rm] | [installation][aligner_install], [docs][aligner_docs], [changelog][aligner_cl] |
-| WWT Excel Add-in | 1.0.3.0 | [wwt-excel-plugin][excel_rm] | [installation][excel_install] |
-| WWT Remote | 5.0.0 | [wwt-remote][remote_rm] | [installation][remote_install] |
+| WWT Windows Client | 6.1.0 | [wwt-windows-client][winclient_rm] | [installation][winclient_install], [docs][winclient_docs], [release notes][winclient_rn], [changelog][winclient_cl] |
+| WWT Aligner | 0.5.0 | [wwt-aligner][aligner_rm] | [installation][aligner_install], [docs][aligner_docs], [release notes][aligner_rn], [changelog][aligner_cl] |
+| WWT Excel Add-in | 1.0.3.0 | [wwt-excel-plugin][excel_rm] | [installation][excel_install], [release notes][excel_rn] |
+| WWT Remote | 5.0.0 | [wwt-remote][remote_rm] | [installation][remote_install], [release notes][remote_rn] |
 
 [winclient_rm]: https://github.com/WorldWideTelescope/wwt-windows-client/#readme
 [winclient_docs]: https://docs.worldwidetelescope.org/user-manual/
 [winclient_install]: https://worldwidetelescope.org/download/#windows-client
+[winclient_rn]: ../winclient/
 [winclient_cl]: https://github.com/WorldWideTelescope/wwt-windows-client/blob/release/WWTExplorer3d/CHANGELOG.md#wwtexplorer-610-2022-02-15
 [aligner_rm]: https://github.com/WorldWideTelescope/wwt-aligner/#readme
 [aligner_install]: https://docs.worldwidetelescope.org/aligner/latest/installation/
 [aligner_docs]: https://docs.worldwidetelescope.org/aligner/
+[aligner_rn]: ../aligner/
 [aligner_cl]: https://github.com/WorldWideTelescope/wwt-aligner/blob/release/backend/CHANGELOG.md#wwt_aligner-050-2021-06-02
 [excel_rm]: https://github.com/WorldWideTelescope/wwt-excel-plugin/#readme
 [excel_install]: https://worldwidetelescope.org/download/#excel-addin
+[excel_rn]: ../excel-addin/
 [remote_rm]: https://github.com/WorldWideTelescope/wwt-remote/#readme
 [remote_install]: https://worldwidetelescope.org/download/#remote-control
+[remote_rn]: ../remote/
 
 
 ## Python Packages
 
 | Package name | Version | Repo / README | Other links |
 |:-------------|--------:|:--------------|:------------|
-| [pywwt][pywwt_pypi] | 0.15.2 | [pywwt][pywwt_rm] | [docs][pywwt_docs], [changelog][pywwt_cl] |
-| [toasty][toasty_pypi] | 0.16.1 | [toasty][toasty_rm] | [docs][toasty_docs], [changelog][toasty_cl] |
+| [pywwt][pywwt_pypi] | 0.15.2 | [pywwt][pywwt_rm] | [installation][pywwt_install], [docs][pywwt_docs], [release notes][pywwt_rn], [changelog][pywwt_cl] |
+| [toasty][toasty_pypi] | 0.16.1 | [toasty][toasty_rm] | [installation][toasty_install], [docs][toasty_docs], [release notes][toasty_rn], [changelog][toasty_cl] |
 | wwt-api-client | unreleased | [wwt_api_client][wwt_api_client_rm] | [docs][wwt_api_client_docs] |
 | [wwt-data-formats][wdf_pypi] | 0.13.0 | [wwt_data_formats][wdf_rm] | [docs][wdf_docs], [changelog][wdf_cl] |
-| [wwt-jupyterlab-extension][wje_pypi] | 1.3.2 | [wwt-jupyterlab/wwt_jupyterlab_extension][wje_rm] | [changelog][wje_cl] |
+| [wwt-jupyterlab-extension][wje_pypi] | 1.3.2 | [wwt-jupyterlab/wwt_jupyterlab_extension][wje_rm] | [release notes][wje_rn], [changelog][wje_cl] |
 | [wwt-kernel-data-relay][wkdr_pypi] | 0.2.0 | [wkdr_relay][wkdr_relay_rm] | [docs][wkdr_docs], [changelog][wkdr_cl] |
 
 [pywwt_pypi]: https://pypi.org/project/pywwt/
 [pywwt_rm]: https://github.com/WorldWideTelescope/pywwt/#readme
+[pywwt_install]: https://pywwt.readthedocs.io/en/stable/installation.html
 [pywwt_docs]: https://pywwt.readthedocs.io/
+[pywwt_rn]: ../pywwt/
 [pywwt_cl]: https://github.com/WorldWideTelescope/pywwt/blob/release/CHANGELOG.md#pypapywwt-0152-2022-01-19
 [toasty_pypi]: https://pypi.org/project/toasty/
 [toasty_rm]: https://github.com/WorldWideTelescope/toasty/#readme
+[toasty_install]: https://toasty.readthedocs.io/en/latest/installation.html
 [toasty_docs]: https://toasty.readthedocs.io/
+[toasty_rn]: ../toasty/
 [toasty_cl]: https://github.com/WorldWideTelescope/toasty/blob/release/CHANGELOG.md#toasty-0161-2022-01-27
 [wwt_api_client_rm]: https://github.com/WorldWideTelescope/wwt_api_client/#readme
 [wwt_api_client_docs]: https://wwt-api-client.readthedocs.io/
@@ -91,6 +103,7 @@ numbers at the time of the release. Most package version numbers follow the
 [wdf_cl]: https://github.com/WorldWideTelescope/wwt_data_formats/blob/release/CHANGELOG.md#wwt_data_formats-0130-2022-02-14
 [wje_pypi]: https://pypi.org/project/wwt-jupyterlab-extension
 [wje_rm]: https://github.com/WorldWideTelescope/wwt-jupyterlab/tree/master/wwt_jupyterlab_extension#readme
+[wje_rn]: ../jupyterlab/
 [wje_cl]: https://github.com/WorldWideTelescope/wwt-jupyterlab/blob/release/wwt_jupyterlab_extension/CHANGELOG.md#wwt_jupyterlab_extension-132-2021-10-27
 [wkdr_pypi]: https://pypi.org/project/wwt-kernel-data-relay
 [wkdr_relay_rm]: https://github.com/WorldWideTelescope/wwt_kernel_data_relay/#readme
@@ -105,10 +118,10 @@ numbers at the time of the release. Most package version numbers follow the
 | [pywwt][pywwt_npm] | 1.3.3 | [pywwt/frontend][pywwt_npm_rm] | [changelog][pywwt_npm_cl] |
 | [@wwtelescope/astro][wwt_astro_npm] | 0.2.0 | [wwt-webgl-engine/astro][wwt_astro_rm] | [docs][wwt_astro_docs], [changelog][wwt_astro_cl] |
 | [@wwtelescope/embed-common][wwt_embed-common_npm] | 0.3.1 | [wwt-webgl-engine/embed-common][wwt_embed-common_rm] | [docs][wwt_embed-common_docs], [changelog][wwt_embed-common_cl] |
-| [@wwtelescope/engine][wwt_engine_npm] | 7.14.5 |[wwt-webgl-engine/engine][wwt_engine_rm] | [docs][wwt_engine_docs], [changelog][wwt_engine_cl] |
+| [@wwtelescope/engine][wwt_engine_npm] | 7.14.5 |[wwt-webgl-engine/engine][wwt_engine_rm] | [docs][wwt_engine_docs], [release notes][wwt_engine_rn], [changelog][wwt_engine_cl] |
 | [@wwtelescope/engine-helpers][wwt_engine-helpers_npm] | 0.8.1 | [wwt-webgl-engine/engine-helpers][wwt_engine-helpers_rm] | [docs][wwt_engine-helpers_docs], [changelog][wwt_engine-helpers_cl] |
 | [@wwtelescope/engine-types][wwt_engine-types_npm] | 0.6.1 | [wwt-webgl-engine/engine-types][wwt_engine-types_rm] | [docs][wwt_engine-types_docs], [changelog][wwt_engine-types_cl] |
-| [@wwtelescope/engine-vuex][wwt_engine-vuex_npm] | 0.13.0 | [wwt-webgl-engine/engine-vuex][wwt_engine-vuex_rm] | [docs][wwt_engine-vuex_docs], [changelog][wwt_engine-vuex_cl] |
+| [@wwtelescope/engine-vuex][wwt_engine-vuex_npm] | 0.13.0 | [wwt-webgl-engine/engine-vuex][wwt_engine-vuex_rm] | [docs][wwt_engine-vuex_docs], [release notes][wwt_engine-vuex_rn] [changelog][wwt_engine-vuex_cl] |
 | [@wwtelescope/jupyterlab][wwt_jupyterlab_npm] | 1.3.2 | [wwt-jupyterlab][wwt_jupyterlab_rm] | [changelog][wwt_jupyterlab_cl] |
 | [@wwtelescope/research-app-messages][wwt_research-app-messages_npm] | 0.13.0 | [wwt-webgl-engine/research-app-messages][wwt_research-app-messages_rm] | [docs][wwt_research-app-messages_docs], [changelog][wwt_research-app-messages_cl] |
 
@@ -125,6 +138,7 @@ numbers at the time of the release. Most package version numbers follow the
 [wwt_embed-common_cl]: https://github.com/WorldWideTelescope/wwt-webgl-engine/blob/release/embed-common/CHANGELOG.md#wwtelescopeembed-common-031-2021-06-03
 [wwt_engine_npm]: https://npmjs.com/package/@wwtelescope/engine
 [wwt_engine_rm]: https://github.com/WorldWideTelescope/wwt-webgl-engine/tree/master/engine#readme
+[wwt_engine_rn]: ../engine/
 [wwt_engine_cl]: https://github.com/WorldWideTelescope/wwt-webgl-engine/blob/release/engine/CHANGELOG.md#wwtelescopeengine-7145-2022-01-06
 [wwt_engine_docs]: https://docs.worldwidetelescope.org/webgl-reference/latest/apiref/engine/
 [wwt_engine-helpers_npm]: https://npmjs.com/package/@wwtelescope/engine-helpers
@@ -138,6 +152,7 @@ numbers at the time of the release. Most package version numbers follow the
 [wwt_engine-vuex_npm]: https://npmjs.com/package/@wwtelescope/engine-vuex
 [wwt_engine-vuex_rm]: https://github.com/WorldWideTelescope/wwt-webgl-engine/tree/master/engine-vuex#readme
 [wwt_engine-vuex_docs]: https://docs.worldwidetelescope.org/webgl-reference/latest/apiref/engine-vuex/
+[wwt_engine-vuex_rn]: ../engine-vuex/
 [wwt_engine-vuex_cl]: https://github.com/WorldWideTelescope/wwt-webgl-engine/blob/release/engine-vuex/CHANGELOG.md#wwtelescopeengine-vuex-0130-2021-11-17
 [wwt_jupyterlab_npm]: https://npmjs.com/package/@wwtelescope/jupyterlab
 [wwt_jupyterlab_rm]: https://github.com/WorldWideTelescope/wwt-jupyterlab#readme
@@ -146,3 +161,5 @@ numbers at the time of the release. Most package version numbers follow the
 [wwt_research-app-messages_rm]: https://github.com/WorldWideTelescope/wwt-webgl-engine/tree/master/research-app-messages#readme
 [wwt_research-app-messages_docs]: https://docs.worldwidetelescope.org/webgl-reference/latest/apiref/research-app-messages/
 [wwt_research-app-messages_cl]: https://github.com/WorldWideTelescope/wwt-webgl-engine/blob/release/research-app-messages/CHANGELOG.md#wwtelescoperesearch-app-messages-0130-2022-01-19
+
+[Go back to the WWT 2022 edition notes.](..)
