@@ -109,15 +109,44 @@ uses. Here are our recommendations for different kinds of users:
 - [App developers](./developers/): start using the WWT toolkit in Python or JavaScript/TypeScript
 
 
+## Release Notes
+
+In these notes you'll find synthetic discussions of changes in WWT 2022 compared
+to previous versions.
+
+- [Detailed list of WWT 2022 component versions](./components/)
+- Release notes for WWT web applications:
+  - [Web client](./webclient/)
+  - [Embed and Sharing app](./embed/)
+  - [Research app](./research-app/)
+  - [Embed Creator app](./embed-creator/)
+- Release notes for WWT desktop applications:
+  - [Windows client](./winclient/)
+  - [WWT Aligner](./aligner/)
+  - [Excel add-in](./excel-addin/)
+  - [Remote Control app](./remote/)
+- Release notes for supporting packages:
+  - [Data holdings](./data/)
+  - [WWT WebGL Engine](./engine/)
+  - [pywwt](./pywwt/)
+  - [toasty](./toasty/)
+  - [Vue/Vuex engine interface](./engine-vuex/)
+  - [WWT JupyterLab extension](./jupyterlab/)
+
+To learn about changes to a component of WWT 2022 not listed above, consult its
+technical changelog as linked from the [detailed versions list](./components/).
+
+
 ## Additional Resources
 
-WWT 2022 comes with many more resources for you to start using it.
-
+- To stay informed about everything WWT, [sign up for the WWT
+  newsletter](https://bit.ly/wwt-signup)!
 - [The WWT Documentation Hub][dochub], home to virtually all primary WWT documentation
-- Research users can seek help in the `#wwt` channel of the [Astropy Slack
-  workspace](https://astropy.slack.com/). If you're not already a member, you
-  can [get an Astropy Slack account](http://joinslack.astropy.org/) in one
-  simple step.
-- *More links to come!*
+- People using WWT for research should seek help in the `#wwt` channel of the
+  [Astropy Slack workspace](https://astropy.slack.com/). If you're not already a
+  member, you can [get an Astropy Slack account](http://joinslack.astropy.org/)
+  in one simple step.
+- For other kinds of questions, try the more generalist [WWT
+  Forum](https://wwt-forum.org/).
 
 [dochub]: https://docs.worldwidetelescope.org/
