@@ -21,7 +21,7 @@ classic WWT “client” applications.
 The WWT “web client” is a multimedia application that lets you explore the universe
 from the comfort of your own web browser! No installation needed. Launch it here:
 
-### <https://worldwidetelescope.org/webclient/>
+> <https://worldwidetelescope.org/webclient/>
 
 Navigate the sky, pull up imagery taken by the world’s best telescopes, and
 watch guided tours that explain, educate, and entertain!
@@ -32,7 +32,7 @@ watch guided tours that explain, educate, and entertain!
 If you use the Windows operating system, you can also download and install the
 WWT Windows client here:
 
-### <https://worldwidetelescope.org/download/>
+> <https://worldwidetelescope.org/download/>
 
 Compared to the web client, the Windows client offers higher performance, a more
 sophisticated tour editor, and advanced functionality like support for VR
