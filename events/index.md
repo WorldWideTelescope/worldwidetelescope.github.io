@@ -13,11 +13,18 @@ There’s no better way to build up the [AAS](https://aas.org/)
 to maintain a regular schedule of events — here’s what’s current:
 
 <details markdown="1">
-  <summary>2022 Feb 15: <a href="../editions/2022">WWT 2022 launches!</a></summary>
+  <summary>2022 June: AAS240</summary>
 
-  The latest version of AAS WorldWide Telescope [will officially launch on
-  February 15th][wwt2022].
+  There will be several WWT events at [AAS240] in Pasadena, CA!
+
+  - **Sunday, 11 AM**: tutorial, [Making the Most of AAS WorldWide Telescope][aas240-tut]
+  - **Sunday, ~3 PM**: WWT presentation at [Effective Astronomy Visualizations for Research, Outreach, and Learning][aas240-viz] workshop
+  - **Monday, 5:30** PM: exhibit hall presentation, [Introducing WWT 2022: The Next Generation of AAS WorldWide Telescope][aas240-exhibit]
 </details>
+
+[aas240-tut]: https://submissions.mirasmart.com/AAS240/itinerary/EventDetail.aspx?evt=9
+[aas240-viz]: https://submissions.mirasmart.com/AAS240/itinerary/EventDetail.aspx?evt=17
+[aas240-exhibit]: https://submissions.mirasmart.com/AAS240/itinerary/EventDetail.aspx?evt=1431
 
 <details class="videobox" markdown="1">
   <summary>What is the AAS WorldWide Telescope?</summary>
@@ -51,7 +58,7 @@ Here we archive some of the materials associated with some previous WWT
 events — completeness not guaranteed.
 
 - [WWT 2022 launch][wwt2022] (virtual; 2022 February 15)
-- [AAS239]: events were planned for 2022 January, but the meeting was canceled
+- [AAS239] — events were planned for 2022 January, but the meeting was canceled
   - Tutorial “Making the Most of AAS WorldWide Telescope”: canceled <!-- history: 2022/aas239-workshop.md -->
   - WWT 2022 launch: postponed (see above)
   - Special session “Interactive Digital Research, Education, and Science
@@ -82,6 +89,7 @@ events — completeness not guaranteed.
 - [WWT @ Mediaglobe Users Group 2015] (Jackson, MS, USA; 2015 August 1)
 - [2015 KICP Workshop] (Chicago, IL, USA; 2015 July 28)
 
+[AAS240]: https://aas.org/meetings/aas240/
 [wwt2022]: ../editions/2022/
 [AAS239]: https://aas.org/meetings/aas239/
 [adass31]: ./2021/adass31.md
