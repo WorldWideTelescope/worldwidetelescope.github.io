@@ -8,26 +8,18 @@ nav_order: 4
 
 # AAS WorldWide Telescope: Current Events
 
-There’s no better way to build up the [AAS](https://aas.org/)
-[WorldWide Telescope](/) community than getting together in person! We strive
-to maintain a regular schedule of events — here’s what’s current:
+There’s no better way to build up the [AAS](https://aas.org/) [WorldWide
+Telescope](/) community than getting together in person! We strive to maintain a
+regular schedule of events — here’s what’s current:
 
 <details markdown="1">
-  <summary>2022 June: AAS240</summary>
+  <summary>No upcoming events scheduled</summary>
 
-  There will be several WWT events at [AAS240] in Pasadena, CA!
-
-  - **Sunday, 11 AM**: tutorial, [Making the Most of AAS WorldWide Telescope][aas240-tut]
-  - **Sunday, ~3 PM**: WWT presentation at [Effective Astronomy Visualizations for Research, Outreach, and Learning][aas240-viz] workshop
-  - **Monday, 5:30** PM: exhibit hall presentation, [Introducing WWT 2022: The Next Generation of AAS WorldWide Telescope][aas240-exhibit]
+  Stay tuned!
 </details>
 
-[aas240-tut]: https://submissions.mirasmart.com/AAS240/itinerary/EventDetail.aspx?evt=9
-[aas240-viz]: https://submissions.mirasmart.com/AAS240/itinerary/EventDetail.aspx?evt=17
-[aas240-exhibit]: https://submissions.mirasmart.com/AAS240/itinerary/EventDetail.aspx?evt=1431
-
 <details class="videobox" markdown="1">
-  <summary>What is the AAS WorldWide Telescope?</summary>
+  <summary>What is AAS WorldWide Telescope?</summary>
 
   WWT is a free and open-source tool for showcasing astronomical data and
   knowledge, brought to you by the
@@ -57,6 +49,12 @@ If you’re not able to make it to any in-person events, try checking out
 Here we archive some of the materials associated with some previous WWT
 events — completeness not guaranteed.
 
+- [AAS240] (Pasadena, CA; 2022 June 12–16)
+  - Tutorial: [Making the Most of AAS WorldWide Telescope][aas240-tut]
+  - WWT presentation at [Effective Astronomy Visualizations for Research,
+    Outreach, and Learning][aas240-viz] workshop
+  - Exhibit hall presentation: [Introducing WWT 2022: The Next Generation of AAS
+    WorldWide Telescope][aas240-exhibit]
 - [WWT 2022 launch][wwt2022] (virtual; 2022 February 15)
 - [AAS239] — events were planned for 2022 January, but the meeting was canceled
   - Tutorial “Making the Most of AAS WorldWide Telescope”: canceled <!-- history: 2022/aas239-workshop.md -->
@@ -90,6 +88,9 @@ events — completeness not guaranteed.
 - [2015 KICP Workshop] (Chicago, IL, USA; 2015 July 28)
 
 [AAS240]: https://aas.org/meetings/aas240/
+[aas240-tut]: https://submissions.mirasmart.com/AAS240/itinerary/EventDetail.aspx?evt=9
+[aas240-viz]: https://submissions.mirasmart.com/AAS240/itinerary/EventDetail.aspx?evt=17
+[aas240-exhibit]: https://submissions.mirasmart.com/AAS240/itinerary/EventDetail.aspx?evt=1431
 [wwt2022]: ../editions/2022/
 [AAS239]: https://aas.org/meetings/aas239/
 [adass31]: ./2021/adass31.md
