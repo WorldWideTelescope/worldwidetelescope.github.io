@@ -7,6 +7,7 @@ nav_order: 6
 
 The occasional WWT newsletters are archived here.
 
+- [2022-07](./2022-07/): JWST in AAS WorldWide Telescope!
 - [2022-04](./2022-04/)
 - [2022-02](../editions/2022/): WWT is released!
 - [2022-01](./2022-01/): WWT 2022 is coming: beta-test the latest version of the

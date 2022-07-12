@@ -18,7 +18,7 @@ I'm also pleased to say that **we're entering the final beta testing period for
 the new 6.1 release of the WWT Windows application!** To participate in our
 "registered beta" program, visit this website:
 
-#### <https://worldwidetelescope.org/download/beta/>
+> ### <https://worldwidetelescope.org/download/beta/>
 
 Find out more below, including some **IMPORTANT WARNINGS** to be aware of.
 
