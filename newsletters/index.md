@@ -5,7 +5,10 @@ nav_order: 6
 
 # AAS WorldWide Telescope: Newsletters
 
-The occasional WWT newsletters are archived here.
+The occasional WWT newsletters are archived here. [Click here][sub] to subscribe
+if you haven’t already!
+
+[sub]: https://bit.ly/wwt-signup
 
 - [2022-07](./2022-07/): JWST in AAS WorldWide Telescope!
 - [2022-04](./2022-04/)
