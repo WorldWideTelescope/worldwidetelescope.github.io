@@ -13,9 +13,10 @@ Telescope](/) community than getting together in person! We strive to maintain a
 regular schedule of events — here’s what’s current:
 
 <details markdown="1">
-  <summary>No upcoming events scheduled</summary>
+  <summary>Oct. 31: <a href="2022/adass32-tutorial/index.html">ADASS32 tutorial</a> (virtual)</summary>
 
-  Stay tuned!
+  If you’ll be attending ADASS32, check out this Zoom-based tutorial on the
+  interactive visualization of large data sets using WWT!
 </details>
 
 <details class="videobox" markdown="1">
