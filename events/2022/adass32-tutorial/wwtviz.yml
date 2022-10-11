@@ -4,6 +4,7 @@ channels:
 dependencies:
   - astropy=5.1
   - astropy-healpix=0.7
+  - astroquery=0.4.6
   - jupyterlab=3.4.8
   - nodejs=18.10.0
   - python=3.10.6
