@@ -114,6 +114,44 @@ For reference, here’s the tutorial description in the ADASS schedule:
 > WorldWide Telescope (WWT) and its related tooling.
 
 
+## Manual Software Environment Setup
+
+If you’d prefer to set up your software environment without using the Conda file
+given above, you’ll need an installation of Python 3.7 or newer. It will need to
+have the following packages installed:
+
+- `astropy`
+- `astroquery`
+- `jupyterlab` version `>=3.4`
+- `pywwt` version `>=0.16`
+- `reproject` version `>=0.9`
+- `shapely` version `>=1.8`
+- `toasty` version `>=0.18`
+- `wwt_data_formats` version `>=0.16`
+- `wwt_jupyterlab_extension` version `>=1.4`
+- `wwt_kernel_data_relay` version `>=0.2`
+
+After installing these packages you should confirm that you have at least the
+following Jupyter server extensions installed and enabled (via `jupyter server
+extension list`):
+
+- `jupyterlab`
+- `wwt_kernel_data_relay`
+
+And the following Jupyter notebook extensions (`jupyter nbextension list`):
+
+- `pywwt/extension`
+
+And the following JupyterLab extensions (`jupyter labextension list`):
+
+- `@wwtelescope/jupyterlab`
+- `pywwt`
+
+[The pywwt installation page][pywwt-install] has some more detailed instructions.
+
+[pywwt-install]: https://pywwt.readthedocs.io/en/stable/installation.html
+
+
 ## Contact
 
 Reach the workshop organizer Peter K. G. Williams at <pwilliams@cfa.harvard.edu>.

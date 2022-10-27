@@ -6,12 +6,12 @@ dependencies:
   - astropy-healpix=0.7
   - astroquery=0.4.6
   - jupyterlab=3.4.8
-  - nodejs=18.10.0
+  - nodejs=18.11.0
   - python=3.10.6
-  - pywwt=0.16.1
+  - pywwt=0.16.2
   - reproject=0.9
-  - shapely=1.8.4
+  - shapely=1.8.5
   - toasty=0.18.1
-  - wwt_data_formats=0.16.0
+  - wwt_data_formats=0.16.1
   - wwt_jupyterlab_extension=1.4.0
   - wwt_kernel_data_relay=0.2.0
