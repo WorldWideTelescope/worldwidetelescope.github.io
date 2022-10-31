@@ -90,6 +90,7 @@ dedicated mosaicking tools such as [Montage] would).
 ## Exercises
 
 - **Exercise 1:** see [the Exercise 1 instructions](./exercise1.md).
+- **Exercise 2:** see [the Exercise 2 instructions](./exercise2.md).
 
 
 ## Tutorial Description

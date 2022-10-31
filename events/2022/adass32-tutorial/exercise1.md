@@ -68,3 +68,5 @@ questions, there will time for a debrief/Q&A after the exercise.
 
 If you have extra time, try `toasty view vlass2.1-ql-T01t30-J145214-363000.fits`
 to explore this image in WWT’s viewer.
+
+You can also [go back to the tutorial landing page](./index.md).
