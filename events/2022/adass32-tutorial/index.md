@@ -71,9 +71,11 @@ Next, download some larger test files that we’ll use for this tutorial:
 1. Download the file [rh04475_00_01ww_tnx.fit] (729 MiB) into your
    `~/wwtviz/pywwt-notebooks` directory.
 1. Download the file [HFI_SkyMap_857_2048_R2.02_full.fits] (576 MiB) into the same location.
+1. Download the file [vlass2.1-ql-T01t30-J145214-363000.fits] (106 MiB) into the same location.
 
 [rh04475_00_01ww_tnx.fit]: https://data1.wwtassets.org/packages/2022/06_fits_studies/rh04475_00_01ww_tnx.fit
 [HFI_SkyMap_857_2048_R2.02_full.fits]: https://irsa.ipac.caltech.edu/data/Planck/release_2/all-sky-maps/maps/HFI_SkyMap_857_2048_R2.02_full.fits
+[vlass2.1-ql-T01t30-J145214-363000.fits]: https://data1.wwtassets.org/packages/2022/01_demos/vlass2.1-ql-T01t30-J145214-363000.fits
 
 Finally, if you have any large maps that you would like to try processing at the
 end of the tutorial, download or copy them as well! Here, “large” might be in
@@ -83,6 +85,11 @@ collections (although they will not intelligently combine images the way
 dedicated mosaicking tools such as [Montage] would).
 
 [Montage]: http://montage.ipac.caltech.edu/
+
+
+## Exercises
+
+- **Exercise 1:** see [the Exercise 1 instructions](./exercise1.md).
 
 
 ## Tutorial Description
