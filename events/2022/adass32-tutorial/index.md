@@ -91,7 +91,9 @@ dedicated mosaicking tools such as [Montage] would).
 
 - **Exercise 1:** see [the Exercise 1 instructions](./exercise1.md).
 - **Exercise 2:** see [the Exercise 2 instructions](./exercise2.md).
-
+- **Exercise 3:** see the *ADASS32 Exercise 3* notebook in the `pywwt-notebooks`
+  repo. (If it doesn’t seem to be there, did you check out the `adass32` branch
+  of the repo?)
 
 ## Tutorial Description
 
