@@ -131,6 +131,7 @@ have the following packages installed:
 - `astropy`
 - `astroquery`
 - `jupyterlab` version `>=3.4`
+- `healpy`
 - `pywwt` version `>=0.16`
 - `reproject` version `>=0.9`
 - `shapely` version `>=1.8`
