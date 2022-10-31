@@ -6,6 +6,7 @@ dependencies:
   - astropy-healpix=0.7
   - astroquery=0.4.6
   - jupyterlab=3.4.8
+  - healpy=1.16.1
   - nodejs=18.11.0
   - python=3.10.6
   - pywwt=0.16.2
