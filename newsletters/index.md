@@ -10,6 +10,7 @@ if you haven’t already!
 
 [sub]: https://bit.ly/wwt-signup
 
+- [2022-11](./2022-11/)
 - [2022-07](./2022-07/): JWST in AAS WorldWide Telescope!
 - [2022-04](./2022-04/)
 - [2022-02](../editions/2022/): WWT is released!
