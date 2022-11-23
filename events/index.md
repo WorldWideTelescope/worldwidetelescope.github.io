@@ -13,10 +13,7 @@ Telescope](/) community than getting together in person! We strive to maintain a
 regular schedule of events — here’s what’s current:
 
 <details markdown="1">
-  <summary>Oct. 31: <a href="2022/adass32-tutorial/index.html">ADASS32 tutorial</a> (virtual)</summary>
-
-  If you’ll be attending ADASS32, check out this Zoom-based tutorial on the
-  interactive visualization of large data sets using WWT!
+  <summary>No upcoming events scheduled</summary>
 </details>
 
 <details class="videobox" markdown="1">
@@ -50,6 +47,9 @@ If you’re not able to make it to any in-person events, try checking out
 Here we archive some of the materials associated with some previous WWT
 events — completeness not guaranteed.
 
+- [ADASS32] (virtual; 2022 October 31 – November 4)
+  - Tutorial: [Huge FITS Images in JupyterLab with AAS WorldWide Telescope][adass32-tut]
+  - Contributed talk: *A Novel JupyterLab User Experience for Interactive Data Visualization*
 - [AAS240] (Pasadena, CA; 2022 June 12–16)
   - Tutorial: [Making the Most of AAS WorldWide Telescope][aas240-tut]
   - WWT presentation at [Effective Astronomy Visualizations for Research,
@@ -88,6 +88,8 @@ events — completeness not guaranteed.
 - [WWT @ Mediaglobe Users Group 2015] (Jackson, MS, USA; 2015 August 1)
 - [2015 KICP Workshop] (Chicago, IL, USA; 2015 July 28)
 
+[ADASS32]: https://www.adass2022.ca/
+[adass32-tut]: 2022/adass32-tutorial/index.md
 [AAS240]: https://aas.org/meetings/aas240/
 [aas240-tut]: https://submissions.mirasmart.com/AAS240/itinerary/EventDetail.aspx?evt=9
 [aas240-viz]: https://submissions.mirasmart.com/AAS240/itinerary/EventDetail.aspx?evt=17
