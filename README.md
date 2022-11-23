@@ -61,10 +61,13 @@ on Jekyll static sites.
 
 ## Acknowledgments
 
-The AAS WorldWide Telescope system is a [.NET Foundation] project supported by
-the [American Astronomical Society] (AAS) and other generous sponsors. See [the
-WWT acknowledgments page][acks] to learn more.
+The AAS WorldWide Telescope system is a [.NET Foundation] project managed by the
+non-profit [American Astronomical Society] (AAS). Work on WWT has been supported
+by the AAS, the US [National Science Foundation], and other partners. See [the
+WWT user website][acks] for details.
 
 [.NET Foundation]: https://dotnetfoundation.org/
 [American Astronomical Society]: https://aas.org/
+[National Science Foundation]: https://www.nsf.gov/
 [acks]: https://worldwidetelescope.org/about/acknowledgments/
+
