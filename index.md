@@ -35,6 +35,7 @@ America.
 - [WWT user website]
 - [WWT Documentation Hub]
 - [WWT Code of Conduct]
+- [WWT Metrics Dashboard] powered by [Datadog]
 - [Sign up for the WWT newsletter](https://bit.ly/wwt-signup)
 
 [WWT discussion forum]: https://wwt-forum.org/
@@ -42,6 +43,8 @@ America.
 [WWT user website]: https://www.worldwidetelescope.org/home/
 [WWT Documentation Hub]: https://docs.worldwidetelescope.org/
 [WWT Code of Conduct]: ./CODE_OF_CONDUCT.md
+[WWT Metrics Dashboard]: https://p.us3.datadoghq.com/sb/cf4ddee0-e5ae-11ec-90f8-da7ad0900003-c64423f0e5e0627e2eb777abe3e591b0
+[Datadog]: https://www.datadoghq.com/
 
 For developers:
 
