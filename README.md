@@ -1,3 +1,5 @@
+[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
+
 # WWT Contributor Hub Static Site
 
 This repository contains the sources for the
@@ -9,15 +11,30 @@ You might want to
 
 ### <https://worldwidetelescope.github.io/>
 
+[//]: # (numfocus-fiscal-sponsor-attribution)
+
+The WorldWide Telescope project uses an [open governance
+model](https://worldwidetelescope.org/about/governance/) and is fiscally
+sponsored by [NumFOCUS](https://numfocus.org/). Consider making a
+[tax-deductible donation](https://numfocus.org/donate-for-worldwide-telescope)
+to help the project pay for developer time, professional services, travel,
+workshops, and a variety of other needs.
+
+<div align="center">
+  <a href="https://numfocus.org/donate-for-worldwide-telescope">
+    <img height="60px"
+         src="https://raw.githubusercontent.com/numfocus/templates/master/images/numfocus-logo.png">
+  </a>
+</div>
+
 
 ## Contributing
 
-As you might guess, contributions to this website, and to the AAS WorldWide
-Telescope in general, are welcome! See
-[the contributors’ guide](https://worldwidetelescope.github.io/contributing/)
-for more information (also available in this repository as
-[CONTRIBUTING.md](./CONTRIBUTING.md)). We use a standard workflow with issues
-and pull requests.
+As you might guess, contributions to this website, and to WorldWide Telescope in
+general, are welcome! See [the contributors’
+guide](https://worldwidetelescope.github.io/contributing/) for more information
+(also available in this repository as [CONTRIBUTING.md](./CONTRIBUTING.md)). We
+use a standard workflow with issues and pull requests.
 
 Our [GitHub Pages] sites, such as this one, use the [just-the-docs] [Jekyll]
 theme. The [just-the-docs documentation] describes its features.
@@ -61,13 +78,10 @@ on Jekyll static sites.
 
 ## Acknowledgments
 
-The AAS WorldWide Telescope system is a [.NET Foundation] project managed by the
-non-profit [American Astronomical Society] (AAS). Work on WWT has been supported
-by the AAS, the US [National Science Foundation], and other partners. See [the
+Work on the WorldWide Telescope system has been supported by the [American
+Astronomical Society] (AAS), the [.NET Foundation], and other partners. See [the
 WWT user website][acks] for details.
 
-[.NET Foundation]: https://dotnetfoundation.org/
 [American Astronomical Society]: https://aas.org/
-[National Science Foundation]: https://www.nsf.gov/
+[.NET Foundation]: https://dotnetfoundation.org/
 [acks]: https://worldwidetelescope.org/about/acknowledgments/
-
