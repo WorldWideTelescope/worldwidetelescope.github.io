@@ -4,9 +4,9 @@ permalink: "/code-of-conduct/"
 nav_order: 3
 ---
 
-# AAS WorldWide Telescope Code of Conduct
+# WorldWide Telescope Code of Conduct
 
-The AAS WorldWide Telescope is dedicated to providing a welcoming and
+WorldWide Telescope is dedicated to providing a welcoming and
 supportive environment for all people, regardless of background or identity.
 However, we recognise that some groups in our community are subject to
 historical and ongoing discrimination, and may be vulnerable or disadvantaged.

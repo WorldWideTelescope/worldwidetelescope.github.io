@@ -6,22 +6,21 @@ nav_order: 4
 <!-- N.B.: our physical swag items direct people to the URL of this page, so
  it should be awesome and useful for people who have no idea what WWT is! -->
 
-# AAS WorldWide Telescope: Current Events
+# WorldWide Telescope: Current Events
 
-There’s no better way to build up the [AAS](https://aas.org/) [WorldWide
-Telescope](/) community than getting together in person! We strive to maintain a
-regular schedule of events — here’s what’s current:
+There’s no better way to build up the [WorldWide Telescope](/) community than
+getting together in person! We strive to maintain a regular schedule of events —
+here’s what’s current:
 
 <details markdown="1">
   <summary>No upcoming events scheduled</summary>
 </details>
 
 <details class="videobox" markdown="1">
-  <summary>What is AAS WorldWide Telescope?</summary>
+  <summary>What is WorldWide Telescope?</summary>
 
   WWT is a free and open-source tool for showcasing astronomical data and
-  knowledge, brought to you by the
-  [American Astronomical Society](https://aas.org/) (AAS). Find out more at
+  knowledge. Find out more at
   [worldwidetelescope.org](http://worldwidetelescope.org/home/).
 
   <div class="responsive-16x9-container">
