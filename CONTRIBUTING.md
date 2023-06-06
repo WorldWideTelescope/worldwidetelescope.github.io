@@ -4,9 +4,9 @@ permalink: "/contributing/"
 nav_order: 2
 ---
 
-# The AAS WorldWide Telescope Contributors’ Guide
+# The WorldWide Telescope Contributors’ Guide
 
-Thank you for your interest in contributing to to the AAS WorldWide Telescope!
+Thank you for your interest in contributing to WorldWide Telescope!
 There are many ways to contribute, and we appreciate all of them. Here are the
 major sections of this guide:
 

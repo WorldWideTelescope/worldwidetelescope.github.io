@@ -3,7 +3,7 @@ title: Edition Notes
 nav_order: 5
 ---
 
-# AAS WorldWide Telescope: Edition Notes
+# WorldWide Telescope: Edition Notes
 
 Release notes and supporting materials for the WWT “editions” are collected here.
 

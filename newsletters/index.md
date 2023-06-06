@@ -3,7 +3,7 @@ title: Newsletters
 nav_order: 6
 ---
 
-# AAS WorldWide Telescope: Newsletters
+# WorldWide Telescope: Newsletters
 
 The occasional WWT newsletters are archived here. [Click here][sub] to subscribe
 if you haven’t already!
