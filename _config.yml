@@ -9,7 +9,7 @@ github_username: WorldWideTelescope
 remote_theme: pmarsceill/just-the-docs
 color_scheme: wwt
 
-logo: "stacked-logo.png"
+logo: "horizontal-logomark.png"
 
 aux_links:
   "Source on GitHub!":
