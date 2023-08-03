@@ -17,7 +17,7 @@ aux_links:
 
 footer_content: "Copyright 2019-2023 the .NET Foundation. WorldWide Telescope is a fiscally sponsored project of NumFOCUS, a nonprofit dedicated to supporting the open-source scientific computing community."
 
-ga_tracking: UA-107473046-4
+ga_tracking: G-Z2CCV70CCY
 
 exclude:
   - Gemfile
