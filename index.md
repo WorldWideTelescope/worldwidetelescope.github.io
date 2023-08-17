@@ -74,7 +74,7 @@ happen:
 - [Twitter: @wwtelescope](https://twitter.com/wwtelescope)
 - [Facebook: @wwtelescope](https://www.facebook.com/wwtelescope/)
 - [YouTube: AASWorldWideTelescope](https://www.youtube.com/c/AASWorldWideTelescope)
-- [Email: wwt@aas.org](mailto:wwt@aas.org)
+- [Email: hello@worldwidetelescope.org](mailto:hello@worldwidetelescope.org)
 
 
 ## Documentation
