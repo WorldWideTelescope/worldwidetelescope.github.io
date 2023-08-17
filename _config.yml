@@ -1,6 +1,6 @@
 title: WWT Contributor Hub
 url: "https://worldwidetelescope.github.io"
-email: wwt@aas.org
+email: hello@worldwidetelescope.org
 description: >-
   The hub for people who want to contribute to the WorldWide
   Telescope project.
@@ -13,7 +13,7 @@ logo: "horizontal-logomark.png"
 
 aux_links:
   "Source on GitHub!":
-    - "//github.com/WorldWideTelescope/worldwidetelescope.github.io/"
+    - "https://github.com/WorldWideTelescope/worldwidetelescope.github.io/"
 
 footer_content: "Copyright 2019-2023 the .NET Foundation. WorldWide Telescope is a fiscally sponsored project of NumFOCUS, a nonprofit dedicated to supporting the open-source scientific computing community."
 
